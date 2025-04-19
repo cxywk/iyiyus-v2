@@ -1,0 +1,75 @@
+
+{
+	"bid" : "com.tencent.mqq.1",
+	"bver" : "8.9.53.620",
+	"changed" : 
+	[
+		"libsubstrate.dylib",
+		"Frameworks/ilink.framework/_CodeSignature/CodeResources",
+		"Frameworks/ilink.framework/ilink",
+		"Frameworks/TXSoundTouch.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXSoundTouch.framework/TXSoundTouch",
+		"Frameworks/UE4.framework/_CodeSignature/CodeResources",
+		"Frameworks/UE4.framework/UE4",
+		"Frameworks/andromeda.framework/_CodeSignature/CodeResources",
+		"Frameworks/andromeda.framework/andromeda",
+		"Frameworks/WeAppCoreSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/WeAppCoreSDK.framework/WeAppCoreSDK",
+		"embedded.mobileprovision"
+	],
+	"exec" : "QQ",
+	"files" : [ "libsubstrate.dylib" ],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.tencent.ilinkshell",
+			"bver" : "8.9.53.620",
+			"exec" : "ilink",
+			"path" : "Frameworks/ilink.framework",
+			"sha1" : "GbgHpEQ3q2T8TNfDD42GZXTCDxc=",
+			"sha2" : "NYsg2e4Sro54goK4jjAKS/olh2JlOG50o/1Xey+1M+U="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.SoundTouch",
+			"bver" : "8.9.53.620",
+			"exec" : "TXSoundTouch",
+			"path" : "Frameworks/TXSoundTouch.framework",
+			"sha1" : "+SFJYv8EvzmvZz2A3+rSHrz6mQE=",
+			"sha2" : "Ol1za9Avpt7BTA7pvlAU7je1GxqZEj+HZeo1wEMcDAs="
+		},
+		
+		{
+			"bid" : "com.tencent.tfgame.embedded",
+			"bver" : "8.9.53.620",
+			"exec" : "UE4",
+			"path" : "Frameworks/UE4.framework",
+			"sha1" : "xU33j6JvNabKGhRMusTdDlTqEao=",
+			"sha2" : "c/oQ/ds+OCWvkY9jocnlCyFKqXX84M7B0Is9LWfdGqg="
+		},
+		
+		{
+			"bid" : "com.tencent.andromeda.andromeda",
+			"bver" : "8.9.53.620",
+			"exec" : "andromeda",
+			"path" : "Frameworks/andromeda.framework",
+			"sha1" : "6qHQcOi7OFYF3GAsZwcMQh9wyjw=",
+			"sha2" : "JHqKA7Y5FMzJeQkyEgF0YwUf1Ohprd9tsrXWzFf45q8="
+		},
+		
+		{
+			"bid" : "org.cocoapods.WeAppCoreSDK",
+			"bver" : "8.9.53.620",
+			"exec" : "WeAppCoreSDK",
+			"path" : "Frameworks/WeAppCoreSDK.framework",
+			"sha1" : "RYSNitzAerM9LD+eTGtrqQzk/Dc=",
+			"sha2" : "yDRr4wnWf+Gu7k/4I0xWB3RxSfMQlxdQExKeg1G+lDU="
+		}
+	],
+	"name" : "QQ",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684036306/Payload/QQ.app",
+	"sha1" : "A3GbPBmpt+E5GnpTw5PImFqVqcE=",
+	"sha2" : "khY31E6Ub6Ggh5n6sWOoLV7YKYa+FS/tYnGbQTDQHG8="
+}

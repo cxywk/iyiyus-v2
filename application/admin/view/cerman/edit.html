@@ -1,0 +1,74 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <!-- <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Uuid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-uuid" class="form-control" name="row[uuid]" type="text" value="{$row.uuid|htmlentities}">
+        </div>
+    </div> -->
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cermdata')}:</label>
+        <div class="col-xs-12 col-sm-8">
+
+            <div class="radio">
+                {foreach name="cermdataList" item="vo"}
+                <label for="row[cermdata]-{$key}"><input id="row[cermdata]-{$key}" name="row[cermdata]" type="radio"
+                        value="{$key}" {in name="key" value="$row.cermdata" }checked{/in} /> {$vo}</label>
+                {/foreach}
+            </div>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Pooldata')}:</label>
+        <div class="col-xs-12 col-sm-8">
+
+            <div class="radio">
+                {foreach name="pooldataList" item="vo"}
+                <label for="row[pooldata]-{$key}"><input id="row[pooldata]-{$key}" name="row[pooldata]" type="radio"
+                        value="{$key}" {in name="key" value="$row.pooldata" }checked{/in} /> {$vo}</label>
+                {/foreach}
+            </div>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Typedata')}:</label>
+        <div class="col-xs-12 col-sm-8">
+
+            <div class="radio">
+                {foreach name="typedataList" item="vo"}
+                <label for="row[typedata]-{$key}"><input id="row[typedata]-{$key}" name="row[typedata]" type="radio"
+                        value="{$key}" {in name="key" value="$row.typedata" }checked{/in} /> {$vo}</label>
+                {/foreach}
+            </div>
+
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">时效:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="radio">
+                {foreach name="sjypList" item="vo"}
+                <label for="row[sjyp]-{$key}"><input id="row[sjyp]-{$key}" name="row[sjyp]" type="radio" value="{$key}"
+                        {in name="key" value="$row.sjyp" }checked{/in} /> {$vo}</label>
+                {/foreach}
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Beizhu')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-beizhu" class="form-control" name="row[beizhu]" type="text" value="{$row.beizhu|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-primary btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

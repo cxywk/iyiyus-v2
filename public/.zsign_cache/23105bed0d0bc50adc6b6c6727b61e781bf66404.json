@@ -1,0 +1,65 @@
+
+{
+	"bid" : "com.laobai.ting",
+	"bver" : "7",
+	"changed" : 
+	[
+		"YongShuTweak.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/AlivcConan.framework/_CodeSignature/CodeResources",
+		"Frameworks/AlivcConan.framework/AlivcConan",
+		"Frameworks/alivcffmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/alivcffmpeg.framework/alivcffmpeg",
+		"Frameworks/AliyunPlayer.framework/_CodeSignature/CodeResources",
+		"Frameworks/AliyunPlayer.framework/AliyunPlayer",
+		"Frameworks/AliyunMediaDownloader.framework/_CodeSignature/CodeResources",
+		"Frameworks/AliyunMediaDownloader.framework/AliyunMediaDownloader",
+		"embedded.mobileprovision"
+	],
+	"exec" : "老白故事",
+	"files" : [ "YongShuTweak.dylib", "libsubstrate.dylib" ],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.Aliyun.AlivcConanDynamic",
+			"bver" : "1",
+			"exec" : "AlivcConan",
+			"path" : "Frameworks/AlivcConan.framework",
+			"sha1" : "R//S6MY9f2LZ3ROHix1dtZZOrY0=",
+			"sha2" : "OqVQnVgOeeyQ5kX3yAaawTOGTHQN7JVX9FUsu4nZVZY="
+		},
+		
+		{
+			"bid" : "com.alibaba.AliyunPlayer.alivcffmpeg",
+			"bver" : "1",
+			"exec" : "alivcffmpeg",
+			"path" : "Frameworks/alivcffmpeg.framework",
+			"sha1" : "8y1c/CXhqnQ/qtb0y4U04KvRc4M=",
+			"sha2" : "FTmagWelNyn+BbJGzj9ZbNkpp5S2KpzknRXFVaydngE="
+		},
+		
+		{
+			"bid" : "com.alibaba.AliyunPlayer.AliyunVodPlayerSDK",
+			"bver" : "1",
+			"exec" : "AliyunPlayer",
+			"path" : "Frameworks/AliyunPlayer.framework",
+			"sha1" : "qSR5Wrc6MHSMyntjAoevCvvdh9U=",
+			"sha2" : "KdKtGyowhAzo4/0yj99/xW7gB07RR3CUL0RVOZ/qQ/M="
+		},
+		
+		{
+			"bid" : "com.alibaba.AliyunPlayer.AliyunMediaDownloader",
+			"bver" : "1",
+			"exec" : "AliyunMediaDownloader",
+			"path" : "Frameworks/AliyunMediaDownloader.framework",
+			"sha1" : "cqdiqCuOyvXneK377tE6+5OuH0s=",
+			"sha2" : "/ht7aPKeQZO2TaNnmHFxuV+bpXZOTM5HDj+bUKT0o/k="
+		}
+	],
+	"name" : "老白故事",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683422598/Payload/老白故事.app",
+	"sha1" : "BEzsiOB5+A7Ahvlsxckw8XShK+Q=",
+	"sha2" : "U4andh0620JFhB+2M+kClWyW+oDsA2YIAOzPx6/zM/w="
+}

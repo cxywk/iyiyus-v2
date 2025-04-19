@@ -1,0 +1,101 @@
+
+{
+	"bid" : "com.meitu.myxj",
+	"bver" : "39191",
+	"changed" : 
+	[
+		"NoAds.dylib",
+		"myxj.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"Frameworks/libswift_Concurrency.dylib",
+		"AdsGone.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/MTAiInterface.framework/_CodeSignature/CodeResources",
+		"Frameworks/MTAiInterface.framework/MTAiInterface",
+		"Frameworks/mvgif.framework/_CodeSignature/CodeResources",
+		"Frameworks/mvgif.framework/mvgif",
+		"Frameworks/Manis.framework/_CodeSignature/CodeResources",
+		"Frameworks/Manis.framework/Manis",
+		"Frameworks/OpenSSL.framework/_CodeSignature/CodeResources",
+		"Frameworks/OpenSSL.framework/OpenSSL",
+		"Frameworks/mtlabrecord.framework/_CodeSignature/CodeResources",
+		"Frameworks/mtlabrecord.framework/mtlabrecord",
+		"Frameworks/MTGenerateSignKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/MTGenerateSignKit.framework/MTGenerateSignKit",
+		"embedded.mobileprovision"
+	],
+	"exec" : "MYXJ",
+	"files" : 
+	[
+		"NoAds.dylib",
+		"myxj.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"Frameworks/libswift_Concurrency.dylib",
+		"AdsGone.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.meitu.MTAiInterface",
+			"bver" : "39191",
+			"exec" : "MTAiInterface",
+			"path" : "Frameworks/MTAiInterface.framework",
+			"sha1" : "caixAoL2MPtgZpjoSD6l/lRhJ1A=",
+			"sha2" : "4wqeuY7sN71mkbzFkG00M+l6Cc5BQrh20qcUm0O2ouE="
+		},
+		
+		{
+			"bid" : "com.flymedia.mvgif",
+			"bver" : "39191",
+			"exec" : "mvgif",
+			"path" : "Frameworks/mvgif.framework",
+			"sha1" : "TGe/7+rPb5PVmpzXLSg3dn6YbwQ=",
+			"sha2" : "roa/RbslDBhIQ7toWmle/pKYaV/PJyjZQW3Ar3ImdUY="
+		},
+		
+		{
+			"bid" : "com.meitu.manis",
+			"bver" : "39191",
+			"exec" : "Manis",
+			"path" : "Frameworks/Manis.framework",
+			"sha1" : "RxrKNJNfdIS1Tpv7oMQXBFpYxDM=",
+			"sha2" : "fG0rphOVXFvwQHsrdvSlICVDOozQef7qIVID7ft222A="
+		},
+		
+		{
+			"bid" : "com.github.krzyzanowskim.OpenSSL",
+			"bver" : "39191",
+			"exec" : "OpenSSL",
+			"path" : "Frameworks/OpenSSL.framework",
+			"sha1" : "6dze7r6Kmtgjy97qw5h36qzDuIk=",
+			"sha2" : "IaKXuH1wRxXMsK0injmj21c0MFspSdEu1vD8Nd1GdWU="
+		},
+		
+		{
+			"bid" : "com.meitu.mtlabrecord",
+			"bver" : "39191",
+			"exec" : "mtlabrecord",
+			"path" : "Frameworks/mtlabrecord.framework",
+			"sha1" : "TDCV/VKhAvOhRF8HMyBYGu5iCW8=",
+			"sha2" : "11AxMvGRyljtUGVSs9x8ncVSri6uFZhshjqx5ycmoqY="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MTGenerateSignKit",
+			"bver" : "39191",
+			"exec" : "MTGenerateSignKit",
+			"path" : "Frameworks/MTGenerateSignKit.framework",
+			"sha1" : "t8oHlLtrsURl/0/kUdGcurvlbBU=",
+			"sha2" : "RFIz3obsGUXX/E3rpAnsQTO+XnX7ct27bw406YTb9rI="
+		}
+	],
+	"name" : "美颜相机",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684473363/Payload/MYXJ.app",
+	"sha1" : "DLosDLe758ED01pe8+F6enqR9rI=",
+	"sha2" : "eLPYgv7HanIVf1Ktho5j/VU0NNXfFARiDgHKxbKSWaE="
+}

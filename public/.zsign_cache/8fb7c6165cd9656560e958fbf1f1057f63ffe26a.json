@@ -1,0 +1,106 @@
+
+{
+	"bid" : "com.shoujiduoduo.ringtone",
+	"bver" : "3.9.6.3",
+	"changed" : 
+	[
+		"铃声多多Crack.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/AliyunVideoCore.framework/_CodeSignature/CodeResources",
+		"Frameworks/AliyunVideoCore.framework/AliyunVideoCore",
+		"Frameworks/TXFFmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXFFmpeg.framework/TXFFmpeg",
+		"Frameworks/AlivcConan.framework/_CodeSignature/CodeResources",
+		"Frameworks/AlivcConan.framework/AlivcConan",
+		"Frameworks/alivcffmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/alivcffmpeg.framework/alivcffmpeg",
+		"Frameworks/ImSDK_Plus.framework/_CodeSignature/CodeResources",
+		"Frameworks/ImSDK_Plus.framework/ImSDK_Plus",
+		"Frameworks/TXSoundTouch.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXSoundTouch.framework/TXSoundTouch",
+		"Frameworks/libpag.framework/_CodeSignature/CodeResources",
+		"Frameworks/libpag.framework/libpag",
+		"embedded.mobileprovision"
+	],
+	"exec" : "RingtoneDuoduo",
+	"files" : 
+	[
+		"铃声多多Crack.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.aliyun.video.core",
+			"bver" : "1.0",
+			"exec" : "AliyunVideoCore",
+			"path" : "Frameworks/AliyunVideoCore.framework",
+			"sha1" : "JL9SGKWQGAkUiO83BY/wQPUqxPE=",
+			"sha2" : "PnrpNhE8kHI7s2gp5pOYNAvyYDW0nMGTaXAC8/8GXWc="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.FFMPEG",
+			"bver" : "1.0",
+			"exec" : "TXFFmpeg",
+			"path" : "Frameworks/TXFFmpeg.framework",
+			"sha1" : "Zl3UfLuq/86Yvq+1+cQjgVeTh6I=",
+			"sha2" : "DDkPQc6gVy9RZdJDL1LI+AbBVHrZhFsk1VzTP19K9Vo="
+		},
+		
+		{
+			"bid" : "com.Aliyun.AlivcConanDynamic",
+			"bver" : "1",
+			"exec" : "AlivcConan",
+			"path" : "Frameworks/AlivcConan.framework",
+			"sha1" : "hw5votAe0RnHAyHJIvKxNUuBFNQ=",
+			"sha2" : "RgyiRYPYfS7vKeDhMztbLVUnD3jhV7MWHQKlPH2X860="
+		},
+		
+		{
+			"bid" : "com.alibaba.AliyunPlayer.alivcffmpeg",
+			"bver" : "1",
+			"exec" : "alivcffmpeg",
+			"path" : "Frameworks/alivcffmpeg.framework",
+			"sha1" : "qlQABXhJhGq4ieI+TVSGrVuoRWc=",
+			"sha2" : "qPc07d+94l4PHO2UczITElL3pNZEODP27NwGceyK1tg="
+		},
+		
+		{
+			"bid" : "com.tencent.imsdk",
+			"bver" : "1",
+			"exec" : "ImSDK_Plus",
+			"path" : "Frameworks/ImSDK_Plus.framework",
+			"sha1" : "ei2SsqlGB0Tcp0WGGRsIgQIxSvA=",
+			"sha2" : "ik0BRhKzhD/0mHfdiuUUrppFOuEwVtjbXlrwEAGHjZM="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.SoundTouch",
+			"bver" : "1.0",
+			"exec" : "TXSoundTouch",
+			"path" : "Frameworks/TXSoundTouch.framework",
+			"sha1" : "dy9bFn+jrAsK/CXTJC0z+AvqLgk=",
+			"sha2" : "lKK8XMMnhXRV9J3CKytSVJXvYVTxz2hOxteo4fiE8ho="
+		},
+		
+		{
+			"bid" : "org.cocoapods.libpag",
+			"bver" : "1",
+			"exec" : "libpag",
+			"path" : "Frameworks/libpag.framework",
+			"sha1" : "fYNQ8T+tx4JW+mbQPLz8Qr/bC4U=",
+			"sha2" : "nw/KawdDySrdEoRB2HPzQBsyqzW2mKfo1B6xk0vGfk8="
+		}
+	],
+	"name" : "铃声多多",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683955517/Payload/RingtoneDuoduo.app",
+	"sha1" : "fMb370/dIBzwt90BVE/0YisYaWI=",
+	"sha2" : "zFhAKrtmAH7Zr8ZEGfPhZpMaLkyDuHhZOzbky1N+RHk="
+}

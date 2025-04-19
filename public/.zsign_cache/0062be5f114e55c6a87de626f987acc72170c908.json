@@ -1,0 +1,33 @@
+
+{
+	"bid" : "com.ld.TakeBrowser",
+	"bver" : "1",
+	"changed" : 
+	[
+		"roots.dylib",
+		"libstaretafzs.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/AlookMobi.framework/_CodeSignature/CodeResources",
+		"Frameworks/AlookMobi.framework/AlookMobi",
+		"embedded.mobileprovision"
+	],
+	"exec" : "Alook",
+	"files" : [ "roots.dylib", "libstaretafzs.dylib", "libsubstrate.dylib" ],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.alookbrowser.AlookMobi",
+			"bver" : "1",
+			"exec" : "AlookMobi",
+			"path" : "Frameworks/AlookMobi.framework",
+			"sha1" : "52JlI8e7d7f0X+7iad9+e234zE8=",
+			"sha2" : "A/+GbHmqVX9r0EZu+8wGFD2BWB5vyH4ukZT2+lMgSnk="
+		}
+	],
+	"name" : "Alook",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684714916/Payload/Alook.app",
+	"sha1" : "UN7P+/Fh+UOTUHRBM5dexG4mxQc=",
+	"sha2" : "D2lhnIr9wKhu5OfEq047WkdTpbAmmJ90rDvyIdGAV5w="
+}

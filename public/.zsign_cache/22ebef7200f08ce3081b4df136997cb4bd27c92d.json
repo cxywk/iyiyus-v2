@@ -1,0 +1,26 @@
+
+{
+	"bid" : "com.video.special.effects.FXShot",
+	"bver" : "121",
+	"changed" : 
+	[
+		"可拍Crack.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib",
+		"embedded.mobileprovision"
+	],
+	"exec" : "WEVideoFX",
+	"files" : 
+	[
+		"可拍Crack.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib"
+	],
+	"name" : "可拍",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684713768/Payload/WEVideoFX.app",
+	"sha1" : "nO+a7Cq04au8olxJFxRvTKkZwwc=",
+	"sha2" : "KTBTjdqkP37lK1UM/BTF5OZG9WNsyLV81MiGY1tH4XY="
+}

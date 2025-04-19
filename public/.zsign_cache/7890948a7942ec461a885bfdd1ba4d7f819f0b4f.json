@@ -1,0 +1,515 @@
+
+{
+	"bid" : "qywx.2586",
+	"bver" : "120897",
+	"changed" : 
+	[
+		"libsubstrate.dylib",
+		"Frameworks/Tquic.framework/_CodeSignature/CodeResources",
+		"Frameworks/Tquic.framework/Tquic",
+		"Frameworks/xnn.framework/_CodeSignature/CodeResources",
+		"Frameworks/xnn.framework/xnn",
+		"Frameworks/ImSDK_Meeting.framework/_CodeSignature/CodeResources",
+		"Frameworks/ImSDK_Meeting.framework/ImSDK_Meeting",
+		"Frameworks/ilink2.framework/_CodeSignature/CodeResources",
+		"Frameworks/ilink2.framework/ilink2",
+		"Frameworks/wemeet_base.framework/_CodeSignature/CodeResources",
+		"Frameworks/wemeet_base.framework/wemeet_base",
+		"Frameworks/VoipSDKdyn.framework/_CodeSignature/CodeResources",
+		"Frameworks/VoipSDKdyn.framework/VoipSDKdyn",
+		"Frameworks/Flutter.framework/_CodeSignature/CodeResources",
+		"Frameworks/Flutter.framework/Flutter",
+		"Frameworks/IGListDiffKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/IGListDiffKit.framework/IGListDiffKit",
+		"Frameworks/TXFFmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXFFmpeg.framework/TXFFmpeg",
+		"Frameworks/wemeet_framework.framework/_CodeSignature/CodeResources",
+		"Frameworks/wemeet_framework.framework/wemeet_framework",
+		"Frameworks/Masonry.framework/_CodeSignature/CodeResources",
+		"Frameworks/Masonry.framework/Masonry",
+		"Frameworks/lucidity.framework/_CodeSignature/CodeResources",
+		"Frameworks/lucidity.framework/lucidity",
+		"Frameworks/tcd.framework/_CodeSignature/CodeResources",
+		"Frameworks/tcd.framework/tcd",
+		"Frameworks/WeMeet.framework/_CodeSignature/CodeResources",
+		"Frameworks/WeMeet.framework/WeMeet",
+		"Frameworks/ilink_protobuf.framework/_CodeSignature/CodeResources",
+		"Frameworks/ilink_protobuf.framework/ilink_protobuf",
+		"Frameworks/IGListKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/IGListKit.framework/IGListKit",
+		"Frameworks/MJRefresh.framework/_CodeSignature/CodeResources",
+		"Frameworks/MJRefresh.framework/MJRefresh",
+		"Frameworks/OpenSSL.framework/_CodeSignature/CodeResources",
+		"Frameworks/OpenSSL.framework/OpenSSL",
+		"Frameworks/owl.framework/_CodeSignature/CodeResources",
+		"Frameworks/owl.framework/owl",
+		"Frameworks/wmp_av_sdk.framework/_CodeSignature/CodeResources",
+		"Frameworks/wmp_av_sdk.framework/wmp_av_sdk",
+		"Frameworks/ilink_live_h5transfer.framework/_CodeSignature/CodeResources",
+		"Frameworks/ilink_live_h5transfer.framework/ilink_live_h5transfer",
+		"Frameworks/omp.framework/_CodeSignature/CodeResources",
+		"Frameworks/omp.framework/omp",
+		"Frameworks/ConfSDKdyn.framework/_CodeSignature/CodeResources",
+		"Frameworks/ConfSDKdyn.framework/ConfSDKdyn",
+		"Frameworks/TXSoundTouch.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXSoundTouch.framework/TXSoundTouch",
+		"Frameworks/liteapp.framework/_CodeSignature/CodeResources",
+		"Frameworks/liteapp.framework/liteapp",
+		"Frameworks/wemeet_app_sdk.framework/_CodeSignature/CodeResources",
+		"Frameworks/wemeet_app_sdk.framework/wemeet_app_sdk",
+		"Frameworks/ilink_live_lite.framework/_CodeSignature/CodeResources",
+		"Frameworks/ilink_live_lite.framework/ilink_live_lite",
+		"Frameworks/Voip_3rd.framework/_CodeSignature/CodeResources",
+		"Frameworks/Voip_3rd.framework/Voip_3rd",
+		"Frameworks/KVOController.framework/_CodeSignature/CodeResources",
+		"Frameworks/KVOController.framework/KVOController",
+		"Frameworks/WXCMultiTalkSdk.framework/_CodeSignature/CodeResources",
+		"Frameworks/WXCMultiTalkSdk.framework/WXCMultiTalkSdk",
+		"Frameworks/wemeet_module_api.framework/_CodeSignature/CodeResources",
+		"Frameworks/wemeet_module_api.framework/wemeet_module_api",
+		"Frameworks/libpag.framework/_CodeSignature/CodeResources",
+		"Frameworks/libpag.framework/libpag",
+		"Frameworks/Rpclient_Dly.framework/_CodeSignature/CodeResources",
+		"Frameworks/Rpclient_Dly.framework/Rpclient_Dly",
+		"Frameworks/MultiMediaDyn.framework/_CodeSignature/CodeResources",
+		"Frameworks/MultiMediaDyn.framework/MultiMediaDyn",
+		"Frameworks/CocoaAsyncSocket.framework/_CodeSignature/CodeResources",
+		"Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket",
+		"Frameworks/WMWhiteboardSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/WMWhiteboardSDK.framework/WMWhiteboardSDK",
+		"Frameworks/UISDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/UISDK.framework/UISDK",
+		"Frameworks/App.framework/_CodeSignature/CodeResources",
+		"Frameworks/App.framework/App",
+		"Frameworks/TencentMeetingSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/TencentMeetingSDK.framework/TencentMeetingSDK",
+		"Frameworks/wemeet_sdk.framework/_CodeSignature/CodeResources",
+		"Frameworks/wemeet_sdk.framework/wemeet_sdk",
+		"Frameworks/wemeet_plugins.framework/_CodeSignature/CodeResources",
+		"Frameworks/wemeet_plugins.framework/wemeet_plugins",
+		"Frameworks/ModulesDependency.framework/_CodeSignature/CodeResources",
+		"Frameworks/ModulesDependency.framework/ModulesDependency",
+		"Frameworks/WeAppCoreSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/WeAppCoreSDK.framework/WeAppCoreSDK",
+		"Frameworks/xcast.framework/_CodeSignature/CodeResources",
+		"Frameworks/xcast.framework/xcast",
+		"Frameworks/xnn_media.framework/_CodeSignature/CodeResources",
+		"Frameworks/xnn_media.framework/xnn_media",
+		"embedded.mobileprovision"
+	],
+	"exec" : "wework",
+	"files" : [ "libsubstrate.dylib" ],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "org.tencent.net.Tquic",
+			"bver" : "83.0.4100.3",
+			"exec" : "Tquic",
+			"path" : "Frameworks/Tquic.framework",
+			"sha1" : "z3LrERYvJm/9Ifp2IGQTwFKFdHg=",
+			"sha2" : "kFPzVMZ99oEuHBoczi/BClzTl2fnmrRnBuLHeECGpTU="
+		},
+		
+		{
+			"bid" : "com.tencent.xnn",
+			"bver" : "0",
+			"exec" : "xnn",
+			"path" : "Frameworks/xnn.framework",
+			"sha1" : "0EU6l8Z48ksApguWr38rTOE8/BQ=",
+			"sha2" : "vgvv9FeCruF9UvGuHLDPUKeDXVshbDiAskfEajudtlE="
+		},
+		
+		{
+			"bid" : "com.tencent.ImSDK",
+			"bver" : "5.0.59",
+			"exec" : "ImSDK_Meeting",
+			"path" : "Frameworks/ImSDK_Meeting.framework",
+			"sha1" : "88eLKT16GnYuVc4NZWpuNPk4gQ4=",
+			"sha2" : "2Pb6y2a3mOo42WPd0eO6hNIdyArqh3zOQeCYvD8JUsY="
+		},
+		
+		{
+			"bid" : "com.tencent.ilink2",
+			"bver" : "1.1.10",
+			"exec" : "ilink2",
+			"path" : "Frameworks/ilink2.framework",
+			"sha1" : "pWhCGYjCyymsDVkH9OirWgZc5+M=",
+			"sha2" : "R5Uh/DAsf2895DIm6O+cQhYAfuaEOgLwk+bUovfHGpc="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.base",
+			"bver" : "1",
+			"exec" : "wemeet_base",
+			"path" : "Frameworks/wemeet_base.framework",
+			"sha1" : "vcwu+aofHMDYomChJBT6+yQJvnc=",
+			"sha2" : "ASa0YmU0Z9l0XJEOghCurk8evnXn2gTCyYOoFT35sig="
+		},
+		
+		{
+			"bid" : "com.tencent.VoipSDKdyn",
+			"bver" : "1",
+			"exec" : "VoipSDKdyn",
+			"path" : "Frameworks/VoipSDKdyn.framework",
+			"sha1" : "7dVToWeLMo/lNXTnx6BKE5bEEdI=",
+			"sha2" : "vORP7UDjvimz55yAisTvyp6GGrxoO8R9Qby4V0MvgGY="
+		},
+		
+		{
+			"bid" : "io.flutter.flutter",
+			"bver" : "1.0",
+			"exec" : "Flutter",
+			"path" : "Frameworks/Flutter.framework",
+			"sha1" : "yc5tZdtJPeKLw4lvzQQSjkcjUp0=",
+			"sha2" : "pt4hPj14vlxhSv2xHZtxuts76fqiLHqk9R5hW4Gt+9s="
+		},
+		
+		{
+			"bid" : "org.cocoapods.IGListDiffKit",
+			"bver" : "1",
+			"exec" : "IGListDiffKit",
+			"path" : "Frameworks/IGListDiffKit.framework",
+			"sha1" : "gmp+gMXkbNG/6grbX3yteqNQ0Rs=",
+			"sha2" : "2taZK7eEdkKxOjuOIgOiF4ZKnIOudtqNVPlbUX0F1lw="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.FFMPEG",
+			"bver" : "1.0",
+			"exec" : "TXFFmpeg",
+			"path" : "Frameworks/TXFFmpeg.framework",
+			"sha1" : "8H9sUFe63ob4tDmLNPDllrGMIuA=",
+			"sha2" : "BmkWW9MiwxTofkhTYfAUdRLjqdvp89iJpaxxWYOxhWA="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.wemeetframework",
+			"bver" : "1",
+			"exec" : "wemeet_framework",
+			"path" : "Frameworks/wemeet_framework.framework",
+			"sha1" : "GajguvHhlt3MwVxyKBC+RsPtkAQ=",
+			"sha2" : "cToiUfx9yCBf8CqIFDp30IeqWqeJhfO4ZdPjRGiGVyA="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Masonry",
+			"bver" : "1",
+			"exec" : "Masonry",
+			"path" : "Frameworks/Masonry.framework",
+			"sha1" : "Ak03jTYVYi9SdnxuKBqCUIzSuc0=",
+			"sha2" : "+62mZ1dlhGbFa93nUxS88O/eu33xGS3Eosp9vsp7iLY="
+		},
+		
+		{
+			"bid" : "com.tencent.lucidity",
+			"bver" : "1",
+			"exec" : "lucidity",
+			"path" : "Frameworks/lucidity.framework",
+			"sha1" : "/UjWFGhM+9QseUAK+B4+kCxhQ6o=",
+			"sha2" : "SQlzF2YQug2iuHPi+mfnO+Qhboum/6rBa4jixao/RdY="
+		},
+		
+		{
+			"bid" : "com.tencent.tcd",
+			"bver" : "1",
+			"exec" : "tcd",
+			"path" : "Frameworks/tcd.framework",
+			"sha1" : "SwISfArvaRqMOCRuCAfEh62gI+M=",
+			"sha2" : "K6VbkZlG9cizlkEwidnHtkE7W9VY4DS0vseXUV1ZN2A="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.wemeet",
+			"bver" : "616",
+			"exec" : "WeMeet",
+			"path" : "Frameworks/WeMeet.framework",
+			"sha1" : "xLsImJyVIHzZnfWaYj8ZahQXSEQ=",
+			"sha2" : "ZqUJvgDyNXp5rYCXTsebgdYGUyQSf4+2tdm/vy4woSY="
+		},
+		
+		{
+			"bid" : "com.tencent.ilinkprotobuf",
+			"bver" : "1.1.0",
+			"exec" : "ilink_protobuf",
+			"path" : "Frameworks/ilink_protobuf.framework",
+			"sha1" : "zGvJtT/qefKlcmVkuF62F/OzFnQ=",
+			"sha2" : "DJLWMRN0du7VdQsPqB7vYjJKQaABjzs+nGg54f4KHvo="
+		},
+		
+		{
+			"bid" : "com.instagram.IGListKit",
+			"bver" : "1",
+			"exec" : "IGListKit",
+			"path" : "Frameworks/IGListKit.framework",
+			"sha1" : "KM49L3crG0HQtZmrI5V6p8v5MIU=",
+			"sha2" : "NDkK1AkrR7EDcaGN5ikk3AnfrgdU1X3/FD/+K38NTNA="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MJRefresh",
+			"bver" : "1",
+			"exec" : "MJRefresh",
+			"path" : "Frameworks/MJRefresh.framework",
+			"sha1" : "zaO1rTDn5TWA0iEm9J9jzc36oZ8=",
+			"sha2" : "Q3tqSGTVUjRarnPPFcM/eWz+/wrmVdG+zhJ3f0tceAM="
+		},
+		
+		{
+			"bid" : "com.tencent.OpenSSL",
+			"bver" : "1",
+			"exec" : "OpenSSL",
+			"path" : "Frameworks/OpenSSL.framework",
+			"sha1" : "2DwST/NTCJWxIbTc9mpllmZ2OHc=",
+			"sha2" : "vF65w3w9eRm6XLrM6RgPXjhTvky4JO7ARO3oue9UPj8="
+		},
+		
+		{
+			"bid" : "com.tencent.owl",
+			"bver" : "4.3.9",
+			"exec" : "owl",
+			"path" : "Frameworks/owl.framework",
+			"sha1" : "vzY9md9NyanXCOQg29LmDZMTLAg=",
+			"sha2" : "3CR2zfoPXKoKKx3JugEJlozmk4X3+uEXFQYYhGfUr2o="
+		},
+		
+		{
+			"bid" : "com.tencent.wmpavsdk",
+			"bver" : "58",
+			"exec" : "wmp_av_sdk",
+			"path" : "Frameworks/wmp_av_sdk.framework",
+			"sha1" : "FwEcddz7IfJptE0HLWZXtBC4i+c=",
+			"sha2" : "gqRa5kXJOOEIgcGl8MOWIRp8Xm0Wj7rdiGwWXcety44="
+		},
+		
+		{
+			"bid" : "com.tencent.ilink.live.h5transfer",
+			"bver" : "0.0.1",
+			"exec" : "ilink_live_h5transfer",
+			"path" : "Frameworks/ilink_live_h5transfer.framework",
+			"sha1" : "14/IJOKzmUcW4fIjnRR5P6Yxf74=",
+			"sha2" : "UoU+xmFUlBfQyJ3EyUe4oxCXhfFcD1S4Zj7OSiu/lkk="
+		},
+		
+		{
+			"bid" : "com.tencent.omp",
+			"bver" : "1",
+			"exec" : "omp",
+			"path" : "Frameworks/omp.framework",
+			"sha1" : "3XUZvy+8eu5lkAaWl3BgMU4tZEk=",
+			"sha2" : "uPDvnYWckP0kcSKv0FF6bZdNbkFlHmmTMpEiFDFts6M="
+		},
+		
+		{
+			"bid" : "com.tencent.ConfSDKdyn",
+			"bver" : "1",
+			"exec" : "ConfSDKdyn",
+			"path" : "Frameworks/ConfSDKdyn.framework",
+			"sha1" : "6Cdv8Sz9UxTBram8kpS5Paq42KI=",
+			"sha2" : "koZ5TTnmugdVctD9sSraMsptBS5qgxLFD2paDV1SpM8="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.SoundTouch",
+			"bver" : "1.0",
+			"exec" : "TXSoundTouch",
+			"path" : "Frameworks/TXSoundTouch.framework",
+			"sha1" : "s41ib8FEjI2bBvnxuWSZts2kmno=",
+			"sha2" : "95PY31p3kJOfYgdH3SyohUckpGodFvYcDhNN61ucVeQ="
+		},
+		
+		{
+			"bid" : "com.tencent.ww.liteapp",
+			"bver" : "1.0",
+			"exec" : "liteapp",
+			"path" : "Frameworks/liteapp.framework",
+			"sha1" : "fI6uodkQIvu4tZTjt/1Js0IFdAI=",
+			"sha2" : "PjoC066a3S9wj07u3KRjRN8T71bSApQPn+saR4FsyyA="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.appcommon",
+			"bver" : "1",
+			"exec" : "wemeet_app_sdk",
+			"path" : "Frameworks/wemeet_app_sdk.framework",
+			"sha1" : "n2MbAZLipnjPJg3WPIzqMZedIEg=",
+			"sha2" : "kaKvb08SokuSyF35qAetyR1ImKYy8JO6L1IhqDdoK4s="
+		},
+		
+		{
+			"bid" : "com.tencent.ilinklive.lite",
+			"bver" : "2.0.5",
+			"exec" : "ilink_live_lite",
+			"path" : "Frameworks/ilink_live_lite.framework",
+			"sha1" : "/ReU43DJqSHFnuE8iIm0ipAJcrw=",
+			"sha2" : "SMaJmpvTwfVhm9t7mqT7cZwT3hl576Rmxv+4QDi64Nc="
+		},
+		
+		{
+			"bid" : "tencent.com.Voip-3rd",
+			"bver" : "1",
+			"exec" : "Voip_3rd",
+			"path" : "Frameworks/Voip_3rd.framework",
+			"sha1" : "VbIw985zSNscfH9lcbpKnHGY3t0=",
+			"sha2" : "1QEUSHhXAddq8jh7933nxLTMBadsUh9qfqp4gd6s01w="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KVOController",
+			"bver" : "1",
+			"exec" : "KVOController",
+			"path" : "Frameworks/KVOController.framework",
+			"sha1" : "pbgeB02BQADjytLGT8vY2lOH9+4=",
+			"sha2" : "Ql0+YiSvp5ircBuJdQPSzFs6ElBP5iGpDdLRYUJAkYQ="
+		},
+		
+		{
+			"bid" : "com.tencent.wxcsdk",
+			"bver" : "1",
+			"exec" : "WXCMultiTalkSdk",
+			"path" : "Frameworks/WXCMultiTalkSdk.framework",
+			"sha1" : "FYAMLajnB7XJd1tuWa4r7NDwmb0=",
+			"sha2" : "3RsnmUJTOHiW+w4fIoHJz8KMplufhQQyxJqYBF8LuZ8="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.wemeetmoduleapi",
+			"bver" : "1",
+			"exec" : "wemeet_module_api",
+			"path" : "Frameworks/wemeet_module_api.framework",
+			"sha1" : "8eEySAHnVP6hc6lVrKT/WMA9PGs=",
+			"sha2" : "MOIf13rdR4+rCz8+PtexmH1bVnz/BT/zEZnxMjxhQkM="
+		},
+		
+		{
+			"bid" : "org.cocoapods.libpag",
+			"bver" : "1",
+			"exec" : "libpag",
+			"path" : "Frameworks/libpag.framework",
+			"sha1" : "Vi+X7GUgLSJ4tbKHPbjxtKBe3A4=",
+			"sha2" : "SppmK1i/3/AbEhARhRylQospow4N+VCREbKBWWjVEp4="
+		},
+		
+		{
+			"bid" : "com.tencent.sinap.Rpclient-Dly",
+			"bver" : "1",
+			"exec" : "Rpclient_Dly",
+			"path" : "Frameworks/Rpclient_Dly.framework",
+			"sha1" : "0L1Q4XIYyOMySsdY5w68cXHi2Tg=",
+			"sha2" : "nsGg8Y0BvnxnfFGTBE3NVurwpHTr67x99Z2DQNXta30="
+		},
+		
+		{
+			"bid" : "com.tencent.MultiMedia",
+			"bver" : "1",
+			"exec" : "MultiMediaDyn",
+			"path" : "Frameworks/MultiMediaDyn.framework",
+			"sha1" : "KsPIqgj5LhfogvgNj4tlkTeHeSE=",
+			"sha2" : "EUIxiaEjxZ9JHJ/V9c2hW1Hhz6/i/55aiSBxoJxftBc="
+		},
+		
+		{
+			"bid" : "com.robbiehanson.CocoaAsyncSocket",
+			"bver" : "1",
+			"exec" : "CocoaAsyncSocket",
+			"path" : "Frameworks/CocoaAsyncSocket.framework",
+			"sha1" : "LQEac//yTRoQW0MUwEg6zh/WorQ=",
+			"sha2" : "cBxkNKHC605j/zQ4SrxibB4r7+lE2oSKY4M+NQZh03s="
+		},
+		
+		{
+			"bid" : "com.tencent.WMWhiteboardSDK",
+			"bver" : "1",
+			"exec" : "WMWhiteboardSDK",
+			"path" : "Frameworks/WMWhiteboardSDK.framework",
+			"sha1" : "t3DqHiu+FaX/Ngcr/jQOYVzbJW0=",
+			"sha2" : "iSjJOpWYP00yjvpc9xHvkWyGFhjLs04AYb/Av3kYW4w="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.uisdk",
+			"bver" : "1",
+			"exec" : "UISDK",
+			"path" : "Frameworks/UISDK.framework",
+			"sha1" : "k3NGgmGwaJnPSo3QF+GmJbfxxM4=",
+			"sha2" : "omaSecGQxsVpSe/1sgr6LnQEWxBE5rl4h3heBBsGmtI="
+		},
+		
+		{
+			"bid" : "io.flutter.flutter.app",
+			"bver" : "1.0",
+			"exec" : "App",
+			"path" : "Frameworks/App.framework",
+			"sha1" : "2WH3EkzfNpYxRzEQezsUEM18s6A=",
+			"sha2" : "Te4ceyazB0btZ+MzP0KoJ/8ddM4nxEjyFgYtwvjMuyk="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.UITmSdkModule",
+			"bver" : "999",
+			"exec" : "TencentMeetingSDK",
+			"path" : "Frameworks/TencentMeetingSDK.framework",
+			"sha1" : "4NWbro4JkaCWqtjgq7IqSSYWZ40=",
+			"sha2" : "j2KyUQHffI2WOITncfSGLAKrrbII8Y7V8YeDqToli9M="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.wemeetsdkinternal",
+			"bver" : "1",
+			"exec" : "wemeet_sdk",
+			"path" : "Frameworks/wemeet_sdk.framework",
+			"sha1" : "NBIZuIHqe+5vdlp7R1Mj+Kb6Ths=",
+			"sha2" : "J7CAYP/nCnK3kmZsx18Hc/E2w/rVriUkeudY1jhZDpA="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.wemeetplugins",
+			"bver" : "1",
+			"exec" : "wemeet_plugins",
+			"path" : "Frameworks/wemeet_plugins.framework",
+			"sha1" : "gGuUrvYuueO7hjkpGzo0lZQPduE=",
+			"sha2" : "/muojjVhdBlHgOC1WwFPYFpovcTIHqatQ/nzwny1Qes="
+		},
+		
+		{
+			"bid" : "com.tencent.meeting.ModulesDependency",
+			"bver" : "1",
+			"exec" : "ModulesDependency",
+			"path" : "Frameworks/ModulesDependency.framework",
+			"sha1" : "AR7pLnFM9SDBBSqPY7fiZNw3o20=",
+			"sha2" : "Gc/9yJ1FnJ3LjXUZb9pmkGDB4I8dO2nHah8NWl68Yo8="
+		},
+		
+		{
+			"bid" : "org.cocoapods.WeAppCoreSDK",
+			"bver" : "2.0.3.0",
+			"exec" : "WeAppCoreSDK",
+			"path" : "Frameworks/WeAppCoreSDK.framework",
+			"sha1" : "kTZ0jWJ0SyvC16m8SMTM1XDVsXo=",
+			"sha2" : "ebuze63KntokAn4Z1QL4MDyHcVmvMpSdvBr6Rdo7C1E="
+		},
+		
+		{
+			"bid" : "com.tencent.xcast",
+			"bver" : "1",
+			"exec" : "xcast",
+			"path" : "Frameworks/xcast.framework",
+			"sha1" : "iyGjvZwqPgIIpf1syQNMywTL6so=",
+			"sha2" : "YWFJVWGI980qSPKLbDYO8KKZ5QvkgYo3SuCiDxq/WTQ="
+		},
+		
+		{
+			"bid" : "com.tencent.xnnmedia",
+			"bver" : "0",
+			"exec" : "xnn_media",
+			"path" : "Frameworks/xnn_media.framework",
+			"sha1" : "6QR1Hd56cpFDri/xHWPy94iumO0=",
+			"sha2" : "JV1PxBNDL05ctTC5YxMH7gKd7vfeubmG9QZmwJ6E+vE="
+		}
+	],
+	"name" : "企业微信3",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683424474/Payload/wework.app",
+	"sha1" : "kr5VsUdhAjvhxCBi3B5+dPbZyBA=",
+	"sha2" : "ue93aYMQm7ONcTb+H6dr7/U+MIIoawjuLUTfTh+Ph2U="
+}

@@ -1,0 +1,161 @@
+
+{
+	"bid" : "yf.1",
+	"bver" : "1",
+	"changed" : 
+	[
+		"Frameworks/ilink_network.framework/_CodeSignature/CodeResources",
+		"Frameworks/ilink_network.framework/ilink_network",
+		"Frameworks/NewMessageRingUtil.framework/_CodeSignature/CodeResources",
+		"Frameworks/NewMessageRingUtil.framework/NewMessageRingUtil",
+		"Frameworks/SoundTouch.framework/_CodeSignature/CodeResources",
+		"Frameworks/SoundTouch.framework/SoundTouch",
+		"Frameworks/openssl.framework/_CodeSignature/CodeResources",
+		"Frameworks/openssl.framework/openssl",
+		"Frameworks/MMRouter.framework/_CodeSignature/CodeResources",
+		"Frameworks/MMRouter.framework/MMRouter",
+		"Frameworks/owl.framework/_CodeSignature/CodeResources",
+		"Frameworks/owl.framework/owl",
+		"Frameworks/B9JQ83gf8KZ.framework/_CodeSignature/CodeResources",
+		"Frameworks/B9JQ83gf8KZ.framework/B9JQ83gf8KZ",
+		"Frameworks/andromeda.framework/_CodeSignature/CodeResources",
+		"Frameworks/andromeda.framework/andromeda",
+		"Frameworks/matrixreport.framework/_CodeSignature/CodeResources",
+		"Frameworks/matrixreport.framework/matrixreport",
+		"Frameworks/Lottie.framework/_CodeSignature/CodeResources",
+		"Frameworks/Lottie.framework/Lottie",
+		"Frameworks/ProtobufLite.framework/_CodeSignature/CodeResources",
+		"Frameworks/ProtobufLite.framework/ProtobufLite",
+		"Frameworks/App.framework/_CodeSignature/CodeResources",
+		"Frameworks/App.framework/App",
+		"Frameworks/xiaoService.framework/_CodeSignature/CodeResources",
+		"Frameworks/xiaoService.framework/xiaoService",
+		"embedded.mobileprovision"
+	],
+	"exec" : "WeChat",
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.tencent.ilinknetwork",
+			"bver" : "3.1.4",
+			"exec" : "ilink_network",
+			"path" : "Frameworks/ilink_network.framework",
+			"sha1" : "5xDadtM/Brl+jCrly1/sfa2do34=",
+			"sha2" : "Clwil3H4wq3tYdwxssR0V6b9O7FWkJ5qdim4tjnZBLQ="
+		},
+		
+		{
+			"bid" : "NewMessageRingUtil",
+			"bver" : "1",
+			"exec" : "NewMessageRingUtil",
+			"path" : "Frameworks/NewMessageRingUtil.framework",
+			"sha1" : "Ze2c3enhyPzMgnV/GttISBhldW0=",
+			"sha2" : "ZOYhUAAtj6exAv9Ov7G0T/fefTX8gQzhJixsOdVzJtk="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.SoundTouch",
+			"bver" : "1",
+			"exec" : "SoundTouch",
+			"path" : "Frameworks/SoundTouch.framework",
+			"sha1" : "gnA5keCEMsSBKbOVPno88yWve24=",
+			"sha2" : "q77fYfMtZbVsSAkzDGc+DECou1yMMn6Z+oVFJVnEVUM="
+		},
+		
+		{
+			"bid" : "com.tencent.OpenSSL",
+			"bver" : "1",
+			"exec" : "openssl",
+			"path" : "Frameworks/openssl.framework",
+			"sha1" : "bDn2KzaUy3OL6Ob+sqsXEbfpLaM=",
+			"sha2" : "7Nw8E5sTD3d6qpyZCAvWiDVMIS/pidN1siaEy/KalRg="
+		},
+		
+		{
+			"bid" : "MMRouter",
+			"bver" : "1",
+			"exec" : "MMRouter",
+			"path" : "Frameworks/MMRouter.framework",
+			"sha1" : "lsfxegUWt9Hh0VCA9QjA6vbFDQU=",
+			"sha2" : "tU/jNXovn1GgslQILDsGl/sQC41ruzJW72AD1Hfddfw="
+		},
+		
+		{
+			"bid" : "com.tencent.owl",
+			"bver" : "4.3.1",
+			"exec" : "owl",
+			"path" : "Frameworks/owl.framework",
+			"sha1" : "PPOEoA6TS62H8TSXISml4DppadA=",
+			"sha2" : "b7scj0LfaKuKooLP9SjsdhSX1neWoK3ldZJOAzZyX4c="
+		},
+		
+		{
+			"bid" : "com.mage.Nyx",
+			"bver" : "1",
+			"exec" : "B9JQ83gf8KZ",
+			"path" : "Frameworks/B9JQ83gf8KZ.framework",
+			"sha1" : "SHI2yGettgEk5DPdGrWKjjYjLic=",
+			"sha2" : "N8wkH2rTHhEoNrI7UjEcPOEpFkkPZmXXWJpGPzLAjnA="
+		},
+		
+		{
+			"bid" : "com.tencent.wc.mp.andromeda-dylib",
+			"bver" : "1.0",
+			"exec" : "andromeda",
+			"path" : "Frameworks/andromeda.framework",
+			"sha1" : "Diw7mrI5IT991ztRKY4XDH8zU0Y=",
+			"sha2" : "IwzME1+vccnBQNGMSyF8DLTPjMC2W/QHl/33biA4n1M="
+		},
+		
+		{
+			"bid" : "com.tencent.wc.mp.matrixreport",
+			"bver" : "1",
+			"exec" : "matrixreport",
+			"path" : "Frameworks/matrixreport.framework",
+			"sha1" : "I2LrHRsEBEF2LhKn39EQT1nPGqo=",
+			"sha2" : "YsIr1QJhJyjfCa9dMT4UQJHxwDFVT1PmJm6Ov2Z7Vl0="
+		},
+		
+		{
+			"bid" : "com.airbnb.Lottie",
+			"bver" : "1",
+			"exec" : "Lottie",
+			"path" : "Frameworks/Lottie.framework",
+			"sha1" : "BjxkDpiBRL1EQIq7RfEWxn7ahUQ=",
+			"sha2" : "TEUmY3WxxBmIBeI2S39ztH3TZWOxaiWm+lemnJZtXDU="
+		},
+		
+		{
+			"bid" : "com.test.ProtobufLite",
+			"bver" : "1",
+			"exec" : "ProtobufLite",
+			"path" : "Frameworks/ProtobufLite.framework",
+			"sha1" : "Fco7PHunKrm3zoqKMOzVl3GF31s=",
+			"sha2" : "2+o2WvonvSZALbMst+b3UKkstBWQ4GjFXOybgAxbHZA="
+		},
+		
+		{
+			"bid" : "io.flutter.flutter.app",
+			"bver" : "21.0318.155534",
+			"exec" : "App",
+			"path" : "Frameworks/App.framework",
+			"sha1" : "IwwfLKF3lqe5NYE8vmovFJW2Mi4=",
+			"sha2" : "9TfcdcgpUoJ0ykWkaYU7RW4Vbaatl4SqtcWT13TLgI4="
+		},
+		
+		{
+			"bid" : "com.tencent.xiaoService",
+			"bver" : "1",
+			"exec" : "xiaoService",
+			"path" : "Frameworks/xiaoService.framework",
+			"sha1" : "1EL8IAHfQH9Yd5MLVa9X1V5V21c=",
+			"sha2" : "wpQ1PmKM7AFKkq+NWSebRFYnRAFpv/DBndwrQk0yK50="
+		}
+	],
+	"name" : "微信",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683953130/Payload/WeChat.app",
+	"sha1" : "jxARnQ9SHiKx/i5v/s80aD/33dc=",
+	"sha2" : "VBxZwiblm7xo7joXB4TTHI1D//Hm/vh3Hb9bB37lxB8="
+}

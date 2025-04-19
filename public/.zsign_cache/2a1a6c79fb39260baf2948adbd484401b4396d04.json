@@ -1,0 +1,26 @@
+
+{
+	"bid" : "com.uzstudio.avenuecast.ios",
+	"bver" : "2",
+	"changed" : 
+	[
+		"凡视知音appku.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib",
+		"embedded.mobileprovision"
+	],
+	"exec" : "AvenueCast",
+	"files" : 
+	[
+		"凡视知音appku.dylib",
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib"
+	],
+	"name" : "凡视知音",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683787624/Payload/AvenueCast.app",
+	"sha1" : "UEChBe01gpmK1SqZkrdpTn8Gs4Q=",
+	"sha2" : "8wqWXn+e7FW2WkN7I7omX8T1TpjjuptVxI42b0TJXGQ="
+}

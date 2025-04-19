@@ -1,0 +1,244 @@
+
+{
+	"bid" : "com.xiaohongshu.discover",
+	"bver" : "7861005",
+	"changed" : 
+	[
+		"Instagram Rocket NoAds/RocketNoAds.dylib",
+		"Instagram Rocket NoAds/instanoads.dylib",
+		"libsubstitnet.dylib",
+		"roots.dylib",
+		"Frameworks/libswiftGameplayKit.dylib",
+		"Frameworks/libswiftDarwin.dylib",
+		"Frameworks/libswiftUIKit.dylib",
+		"Frameworks/libswiftIntents.dylib",
+		"Frameworks/libswiftCoreImage.dylib",
+		"Frameworks/libswiftVision.dylib",
+		"Frameworks/libswiftMediaPlayer.dylib",
+		"Frameworks/libswiftMetalKit.dylib",
+		"Frameworks/libswiftPhotos.dylib",
+		"Frameworks/libswiftos.dylib",
+		"Frameworks/libswiftSceneKit.dylib",
+		"Frameworks/libswiftObjectiveC.dylib",
+		"Frameworks/libswiftCoreGraphics.dylib",
+		"Frameworks/libswiftNetwork.dylib",
+		"Frameworks/libswiftAVFoundation.dylib",
+		"Frameworks/libswiftModelIO.dylib",
+		"Frameworks/libswiftCore.dylib",
+		"Frameworks/libsubsmsosoksns.dylib",
+		"Frameworks/libswiftCoreFoundation.dylib",
+		"Frameworks/libswiftCoreAudio.dylib",
+		"Frameworks/libswiftARKit.dylib",
+		"Frameworks/libswiftCoreLocation.dylib",
+		"Frameworks/libswiftMetal.dylib",
+		"Frameworks/libswiftQuartzCore.dylib",
+		"Frameworks/libswiftGLKit.dylib",
+		"Frameworks/libswiftAccelerate.dylib",
+		"Frameworks/libswiftCoreData.dylib",
+		"Frameworks/libswiftMapKit.dylib",
+		"Frameworks/libswiftFoundation.dylib",
+		"Frameworks/libswiftSpriteKit.dylib",
+		"Frameworks/libswiftCoreMedia.dylib",
+		"Frameworks/libsubstitute.dylib",
+		"Frameworks/libswiftAssetsLibrary.dylib",
+		"Frameworks/libswiftDispatch.dylib",
+		"Frameworks/libswiftsimd.dylib",
+		"libsubstrate.dylib",
+		"PlugIns/BroadcastUploadExtension.appex/_CodeSignature/CodeResources",
+		"PlugIns/BroadcastUploadExtension.appex/BroadcastUploadExtension",
+		"PlugIns/WidgetExtension.appex/_CodeSignature/CodeResources",
+		"PlugIns/WidgetExtension.appex/WidgetExtension",
+		"PlugIns/NotificationServiceExtension.appex/_CodeSignature/CodeResources",
+		"PlugIns/NotificationServiceExtension.appex/NotificationServiceExtension",
+		"PlugIns/ShareExtension.appex/_CodeSignature/CodeResources",
+		"PlugIns/ShareExtension.appex/ShareExtension",
+		"PlugIns/TodayExtension.appex/_CodeSignature/CodeResources",
+		"PlugIns/TodayExtension.appex/TodayExtension",
+		"PlugIns/Siri.appex/_CodeSignature/CodeResources",
+		"PlugIns/Siri.appex/Siri",
+		"Instagram Rocket NoAds/libhdev.framework/_CodeSignature/CodeResources",
+		"Instagram Rocket NoAds/libhdev.framework/libhdev",
+		"Frameworks/Agoraffmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/Agoraffmpeg.framework/Agoraffmpeg",
+		"Frameworks/KasaSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/KasaSDK.framework/KasaSDK",
+		"Frameworks/TXFFmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXFFmpeg.framework/TXFFmpeg",
+		"Frameworks/A.framework/_CodeSignature/CodeResources",
+		"Frameworks/A.framework/A",
+		"Frameworks/TXSoundTouch.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXSoundTouch.framework/TXSoundTouch",
+		"Frameworks/AgoraRtcKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/AgoraRtcKit.framework/AgoraRtcKit",
+		"embedded.mobileprovision"
+	],
+	"exec" : "discover",
+	"files" : 
+	[
+		"Instagram Rocket NoAds/RocketNoAds.dylib",
+		"Instagram Rocket NoAds/instanoads.dylib",
+		"libsubstitnet.dylib",
+		"roots.dylib",
+		"Frameworks/libswiftGameplayKit.dylib",
+		"Frameworks/libswiftDarwin.dylib",
+		"Frameworks/libswiftUIKit.dylib",
+		"Frameworks/libswiftIntents.dylib",
+		"Frameworks/libswiftCoreImage.dylib",
+		"Frameworks/libswiftVision.dylib",
+		"Frameworks/libswiftMediaPlayer.dylib",
+		"Frameworks/libswiftMetalKit.dylib",
+		"Frameworks/libswiftPhotos.dylib",
+		"Frameworks/libswiftos.dylib",
+		"Frameworks/libswiftSceneKit.dylib",
+		"Frameworks/libswiftObjectiveC.dylib",
+		"Frameworks/libswiftCoreGraphics.dylib",
+		"Frameworks/libswiftNetwork.dylib",
+		"Frameworks/libswiftAVFoundation.dylib",
+		"Frameworks/libswiftModelIO.dylib",
+		"Frameworks/libswiftCore.dylib",
+		"Frameworks/libsubsmsosoksns.dylib",
+		"Frameworks/libswiftCoreFoundation.dylib",
+		"Frameworks/libswiftCoreAudio.dylib",
+		"Frameworks/libswiftARKit.dylib",
+		"Frameworks/libswiftCoreLocation.dylib",
+		"Frameworks/libswiftMetal.dylib",
+		"Frameworks/libswiftQuartzCore.dylib",
+		"Frameworks/libswiftGLKit.dylib",
+		"Frameworks/libswiftAccelerate.dylib",
+		"Frameworks/libswiftCoreData.dylib",
+		"Frameworks/libswiftMapKit.dylib",
+		"Frameworks/libswiftFoundation.dylib",
+		"Frameworks/libswiftSpriteKit.dylib",
+		"Frameworks/libswiftCoreMedia.dylib",
+		"Frameworks/libsubstitute.dylib",
+		"Frameworks/libswiftAssetsLibrary.dylib",
+		"Frameworks/libswiftDispatch.dylib",
+		"Frameworks/libswiftsimd.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.xiaohongshu.discover.BroadcastUploadExtension",
+			"bver" : "7861005",
+			"exec" : "BroadcastUploadExtension",
+			"path" : "PlugIns/BroadcastUploadExtension.appex",
+			"sha1" : "kXrxvRF6icptLRC593GM1veUAK4=",
+			"sha2" : "Gvw8OlP+MAWwTWzR0PCAUNiTVHFgSx12qvleZsVufZQ="
+		},
+		
+		{
+			"bid" : "com.xiaohongshu.discover.Widget",
+			"bver" : "7861005",
+			"exec" : "WidgetExtension",
+			"path" : "PlugIns/WidgetExtension.appex",
+			"sha1" : "+3yQ+Qg9vc0qI08em36XugmYE60=",
+			"sha2" : "4/A6kNWiRz6dp7mZgtlkNcgCuxomsoKGgRvp7baV1tQ="
+		},
+		
+		{
+			"bid" : "com.xiaohongshu.discover.NotificationServiceExtension",
+			"bver" : "7861005",
+			"exec" : "NotificationServiceExtension",
+			"path" : "PlugIns/NotificationServiceExtension.appex",
+			"sha1" : "FlIgjMW7zyO4ARcrVFreaweL6uU=",
+			"sha2" : "luQbGLiG3+8PiKjrLqPncPel3e+Eu3eA10tbhVSz0DY="
+		},
+		
+		{
+			"bid" : "com.xiaohongshu.discover.ShareExtension",
+			"bver" : "7861005",
+			"exec" : "ShareExtension",
+			"path" : "PlugIns/ShareExtension.appex",
+			"sha1" : "gP5RaHek4FRLOV/4G4DQhzzN7UU=",
+			"sha2" : "eO0YNC7Qb4i4WAfpiLsi5MpS01mqGkcdzkhSHondsZs="
+		},
+		
+		{
+			"bid" : "com.xiaohongshu.discover.TodayExtension",
+			"bver" : "7861005",
+			"exec" : "TodayExtension",
+			"path" : "PlugIns/TodayExtension.appex",
+			"sha1" : "ldjXntft0pSgca/1gJGVbGeTVWE=",
+			"sha2" : "S67uFCQErBio9FAmjgxSpsJdgCrtqJc2SnXXXOKlNKs="
+		},
+		
+		{
+			"bid" : "com.xiaohongshu.discover.Siri",
+			"bver" : "7861005",
+			"exec" : "Siri",
+			"path" : "PlugIns/Siri.appex",
+			"sha1" : "JdMr0yjrSaIPgJN/bjYevpfY3jM=",
+			"sha2" : "qwBK3HcgqM21pBDilda/7A3aNmkaqMtcIEFZgvIqAEg="
+		},
+		
+		{
+			"bid" : "com.haoict.libhdev",
+			"bver" : "1",
+			"exec" : "libhdev",
+			"path" : "Instagram Rocket NoAds/libhdev.framework",
+			"sha1" : "EYJFeNIl3e2lA9v1zSNuVaUlUiQ=",
+			"sha2" : "T8T3zhHRoFlhHAhsl6nUrWB6IgRfhIc6icwcoRce27A="
+		},
+		
+		{
+			"bid" : "io.agora.Agoraffmpeg",
+			"bver" : "7861005",
+			"exec" : "Agoraffmpeg",
+			"path" : "Frameworks/Agoraffmpeg.framework",
+			"sha1" : "cEVvmJurW06ooVAN2Oxf3SiYA1k=",
+			"sha2" : "Cavmy/NlMLnMmNaZ2JM0mNrPYfuZ7SPGwsPVNrEHYNk="
+		},
+		
+		{
+			"bid" : "kasaSdk",
+			"bver" : "7861005",
+			"exec" : "KasaSDK",
+			"path" : "Frameworks/KasaSDK.framework",
+			"sha1" : "vc3q01j4e8Y9XdRRIGNjPG3Au1A=",
+			"sha2" : "+gYlFWFapCAlYA8Md/pwzee8EOZnooECuVffWIJXQrU="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.FFMPEG",
+			"bver" : "7861005",
+			"exec" : "TXFFmpeg",
+			"path" : "Frameworks/TXFFmpeg.framework",
+			"sha1" : "5VfJF2jIpsKHD8GmXo88oHPQGsE=",
+			"sha2" : "DEzw5EHiQvS14JN7uytFx03yH1ke2BlRtnTMhR8bS2M="
+		},
+		
+		{
+			"bid" : "com.panghu.--A",
+			"bver" : "7861005",
+			"exec" : "A",
+			"path" : "Frameworks/A.framework",
+			"sha1" : "OJJ7aFTdgXy1RJ7aYSj4KAJseHI=",
+			"sha2" : "Z/ZxRKduiGPhA0rH+IpILpH9NlIeBR5io9KZSW0U7og="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.SoundTouch",
+			"bver" : "7861005",
+			"exec" : "TXSoundTouch",
+			"path" : "Frameworks/TXSoundTouch.framework",
+			"sha1" : "rIRF9oDHD7XVC7Qq/ttogZg10Dc=",
+			"sha2" : "ailDwrunmVgOXzdoPAU50dua+tOW6Keu4jAylWyqRvI="
+		},
+		
+		{
+			"bid" : "io.agora.AgoraRtcKit",
+			"bver" : "7861005",
+			"exec" : "AgoraRtcKit",
+			"path" : "Frameworks/AgoraRtcKit.framework",
+			"sha1" : "/pcRoUwpKAbLWyuibqMI030giTI=",
+			"sha2" : "7vpha/dE4+knjakD1ItFvUNrwGW01l/+Eh0xNYMe+lw="
+		}
+	],
+	"name" : "小红书",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684402589/Payload/discover.app",
+	"sha1" : "TyCJxAJ1Sw20H46GIwqv+yO0imI=",
+	"sha2" : "MdIvMrCh3K8cwRUEgsWDZmCOaCszemvAffrQAuuIttM="
+}

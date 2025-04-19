@@ -1,0 +1,119 @@
+
+{
+	"bid" : "com.erik.nhbz123",
+	"bver" : "50",
+	"changed" : 
+	[
+		"roots.dylib",
+		"Frameworks/libcycript.dylib",
+		"Frameworks/libHookAppDylib.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/AipOcrSdk.framework/_CodeSignature/CodeResources",
+		"Frameworks/AipOcrSdk.framework/AipOcrSdk",
+		"Frameworks/NvStreamingSdkCore.framework/_CodeSignature/CodeResources",
+		"Frameworks/NvStreamingSdkCore.framework/NvStreamingSdkCore",
+		"Frameworks/KissXML.framework/_CodeSignature/CodeResources",
+		"Frameworks/KissXML.framework/KissXML",
+		"Frameworks/AipBase.framework/_CodeSignature/CodeResources",
+		"Frameworks/AipBase.framework/AipBase",
+		"Frameworks/IdcardQuality.framework/_CodeSignature/CodeResources",
+		"Frameworks/IdcardQuality.framework/IdcardQuality",
+		"Frameworks/KSAdSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/KSAdSDK.framework/KSAdSDK",
+		"Frameworks/libpag.framework/_CodeSignature/CodeResources",
+		"Frameworks/libpag.framework/libpag",
+		"Frameworks/RevealServer.framework/_CodeSignature/CodeResources",
+		"Frameworks/RevealServer.framework/RevealServer",
+		"embedded.mobileprovision"
+	],
+	"exec" : "YaoWang",
+	"files" : 
+	[
+		"roots.dylib",
+		"Frameworks/libcycript.dylib",
+		"Frameworks/libHookAppDylib.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.baidu.idl.aiken",
+			"bver" : "56",
+			"exec" : "AipOcrSdk",
+			"path" : "Frameworks/AipOcrSdk.framework",
+			"sha1" : "FBnGE2mVN3IdBKVwpX/E23VsqkA=",
+			"sha2" : "B2qYnYNjyhKv+dgCriQmJkNYfGEa/eu0TbZ3Uy6W28Y="
+		},
+		
+		{
+			"bid" : "com.meicam.NvStreamingSdkCore",
+			"bver" : "56",
+			"exec" : "NvStreamingSdkCore",
+			"path" : "Frameworks/NvStreamingSdkCore.framework",
+			"sha1" : "73Q6Ad/ZIyiBw1lMF/RyguG0jLQ=",
+			"sha2" : "s+T2NgJs1+WM3RlT32AqVTnVhq1Q0XU6ABLJ5vGeH5I="
+		},
+		
+		{
+			"bid" : "org.robbiehanson.KissXML",
+			"bver" : "56",
+			"exec" : "KissXML",
+			"path" : "Frameworks/KissXML.framework",
+			"sha1" : "0jjnh5eZer0qT7RUJAUiPPE4Jdk=",
+			"sha2" : "El7Y637eEEBfubvxyIILHAGn+q0iopMj0oBuKUkwvDA="
+		},
+		
+		{
+			"bid" : "com.baidu.AipBase.AipBase",
+			"bver" : "56",
+			"exec" : "AipBase",
+			"path" : "Frameworks/AipBase.framework",
+			"sha1" : "ayGoQQ9WZbgFMHrLv1iVM1jFeZ0=",
+			"sha2" : "lo/fQGvChhKglk6KFmQKxa5P7zSkEL6GEGvSinQWIX8="
+		},
+		
+		{
+			"bid" : "com.baidu.IdcardQuality",
+			"bver" : "56",
+			"exec" : "IdcardQuality",
+			"path" : "Frameworks/IdcardQuality.framework",
+			"sha1" : "cxyYziQdWixQO5shIYDXUKAmZn4=",
+			"sha2" : "cmWpBiHYjqB3Qim3gZlzm3min0D6ArjOW9mzztkx9nY="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KSAdSDK",
+			"bver" : "56",
+			"exec" : "KSAdSDK",
+			"path" : "Frameworks/KSAdSDK.framework",
+			"sha1" : "ufqH1TU0UrL3x5ud1TqhSVjshVw=",
+			"sha2" : "OJtzsyc80ISHvNoCqAbW/UxBFldsX7B24xLT9PtOD9Q="
+		},
+		
+		{
+			"bid" : "org.cocoapods.libpag",
+			"bver" : "56",
+			"exec" : "libpag",
+			"path" : "Frameworks/libpag.framework",
+			"sha1" : "lj5rpnMuWJCG+HwOZKEcViJKZSM=",
+			"sha2" : "8Ool5Pz7JsMEj9TrGPdfAI0NQ6vJmU2mDbvelNH7PWY="
+		},
+		
+		{
+			"bid" : "com.ittybittyapps.RevealServer",
+			"bver" : "10107",
+			"exec" : "RevealServer",
+			"path" : "Frameworks/RevealServer.framework",
+			"sha1" : "xwYRSGhsd76QT55ktgURj6flMIo=",
+			"sha2" : "9QHp3X4/dSXSojh7CJnygreEUZkr6tFuqv5buyVgfUc="
+		}
+	],
+	"name" : "薄荷壁纸",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683955829/Payload/HookApp.app",
+	"sha1" : "izr4w8P+cp+imGd3JaD+SpOmOdI=",
+	"sha2" : "aEdv1++B5OmqUJfQJDTxyRkjHvkDKZzPciREqomndGE="
+}

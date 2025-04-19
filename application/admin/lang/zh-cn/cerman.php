@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'Id'             => 'ID',
+    'Uuid'           => '设备UDID',
+    'Cermid'         => '证书ID',
+    'Cermdata'       => '证书类型',
+    'Cermdata 0'     => '躺平版',
+    'Cermdata 1'     => '普通版',
+    'Cermdata 2'     => '加强版',
+    'Cermdata 3'     => '稳定版',
+    'Pooldata'       => '池类型',
+    'Pooldata 0'     => '公共池',
+    'Pooldata 1'     => '独立池',
+    'Typedata'       => '证书类型',
+    'Typedata 0'     => '实时',
+    'Typedata 1'     => '预约',
+    'Beizhu'         => '备注',
+    'Statedata'      => '证书状态',
+    'Statedata 0'    => '正常',
+    'Statedata 1'    => '掉签',
+    'Warrantydata'   => '是否售后',
+    'Warrantydata 0' => '常规',
+    'Warrantydata 1' => '售后',
+    'Addtime'        => '添加时间',
+    'Warrantytime'   => '售后截止时间',
+    'P12file'        => 'p12文件',
+    'Mbfile'         => '描述文件',
+    'Zipfile'        => '打包证书',
+    'Updatetime'     => '更新时间'
+];

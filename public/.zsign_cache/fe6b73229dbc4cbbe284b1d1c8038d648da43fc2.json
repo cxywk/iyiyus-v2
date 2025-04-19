@@ -1,0 +1,26 @@
+
+{
+	"bid" : "com.dumpapp.ipa",
+	"bver" : "10",
+	"changed" : 
+	[
+		"H5GG.dylib",
+		"dumpappManager.dylib",
+		"libsubstrate.dylib",
+		"speedClick.dylib",
+		"embedded.mobileprovision"
+	],
+	"exec" : "DumpApp",
+	"files" : 
+	[
+		"H5GG.dylib",
+		"dumpappManager.dylib",
+		"libsubstrate.dylib",
+		"speedClick.dylib"
+	],
+	"name" : "DumpApp",
+	"path" : "/",
+	"root" : "/www/wwwroot/app.dumpapp.com/public/tmp/1678617612/Payload/DumpApp.app",
+	"sha1" : "hWO7S6sDpcmQVDEnRrtxUzSS7Mo=",
+	"sha2" : "Z3nPtiOufnOEPGuFU/UHJUjHDSDPwNzpwZA54wp58So="
+}

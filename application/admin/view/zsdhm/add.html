@@ -1,0 +1,59 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">兑换码数量:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-kami" data-rule="required" class="form-control" name="row[kami]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">兑换码前缀:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-udid" data-rule="" class="form-control" name="row[udid]" type="text">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">兑换码:</label>
+        <div class="col-xs-12 col-sm-8">
+            {:build_radios('row[sjyp]', ['3'=>'常规'])}
+            <br> 提示:一机一码，一经绑定无法解绑！
+        </div>
+       
+    </div>
+    
+
+    
+     <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">证书类型:</label>
+        <div class="col-xs-12 col-sm-8">
+            {:build_radios('row[type]', ['1'=>'公共池'])}
+        </div>
+       
+    </div>
+    
+      <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">是否为售后:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-shouhou" name="row[shouhou]" type="hidden" value="0">
+            <a href="javascript:;" data-toggle="switcher" class="btn-switcher" data-input-id="c-shouhou" data-yes="1" data-no="0"><i class="fa fa-toggle-on text-success fa-flip-horizontal text-gray fa-2x"></i></a>
+            <br> 提示:售后码激活后不会增加到期时间，只会更换证书
+        </div>
+       
+    </div>
+    
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">兑换码备注:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-beizhu" data-rule="" class="form-control" name="row[beizhu]" type="text">
+        </div>
+    </div>
+    
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

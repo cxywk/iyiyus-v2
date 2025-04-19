@@ -1,0 +1,42 @@
+
+{
+	"bid" : "com.xcvzaq.imagejoin",
+	"bver" : "0",
+	"changed" : 
+	[
+		"长图拼接.dylib",
+		"PlugIns/Screenshot.appex/_CodeSignature/CodeResources",
+		"PlugIns/Screenshot.appex/Screenshot",
+		"PlugIns/ScrollRecord.appex/_CodeSignature/CodeResources",
+		"PlugIns/ScrollRecord.appex/ScrollRecord",
+		"embedded.mobileprovision"
+	],
+	"exec" : "imageJoin",
+	"files" : [ "长图拼接.dylib" ],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.xcvzaq.imagejoin.Scrollshot",
+			"bver" : "0",
+			"exec" : "Screenshot",
+			"path" : "PlugIns/Screenshot.appex",
+			"sha1" : "UhoAXUC9DxJC7tlRu41DTfeIcVI=",
+			"sha2" : "49aXFaeWk17Ff5tChcVyxR2ltAGnIiDmLAQEryyX4yc="
+		},
+		
+		{
+			"bid" : "com.xcvzaq.imagejoin.ScrollRecord",
+			"bver" : "0",
+			"exec" : "ScrollRecord",
+			"path" : "PlugIns/ScrollRecord.appex",
+			"sha1" : "3Jh1MhAF6ObkC8de8RvpeM4Y22U=",
+			"sha2" : "sPaKXhqUhZJy0CIH8wpkvSpNlISTm3vP+I/muMdNYwU="
+		}
+	],
+	"name" : "长图拼接",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684473319/Payload/imageJoin.app",
+	"sha1" : "ApyVLPjMGBcQitW6mrRXz/dpKJs=",
+	"sha2" : "mJwq1zmQGH2DjAplpoKZZYiIYgtzB4xYG2mtGaUR0pc="
+}

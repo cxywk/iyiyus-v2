@@ -1,0 +1,469 @@
+
+{
+	"bid" : "com.LittleMeow.LLMB",
+	"bver" : "14",
+	"changed" : 
+	[
+		"roots.dylib",
+		"Frameworks/libswift_Concurrency.dylib",
+		"小喵.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/SwiftAlertView.framework/_CodeSignature/CodeResources",
+		"Frameworks/SwiftAlertView.framework/SwiftAlertView",
+		"Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources",
+		"Frameworks/SwiftyJSON.framework/SwiftyJSON",
+		"Frameworks/SJBaseVideoPlayer.framework/_CodeSignature/CodeResources",
+		"Frameworks/SJBaseVideoPlayer.framework/SJBaseVideoPlayer",
+		"Frameworks/SJMediaCacheServer.framework/_CodeSignature/CodeResources",
+		"Frameworks/SJMediaCacheServer.framework/SJMediaCacheServer",
+		"Frameworks/CryptoSwift.framework/_CodeSignature/CodeResources",
+		"Frameworks/CryptoSwift.framework/CryptoSwift",
+		"Frameworks/HandyJSON.framework/_CodeSignature/CodeResources",
+		"Frameworks/HandyJSON.framework/HandyJSON",
+		"Frameworks/SJVideoPlayer.framework/_CodeSignature/CodeResources",
+		"Frameworks/SJVideoPlayer.framework/SJVideoPlayer",
+		"Frameworks/Zip.framework/_CodeSignature/CodeResources",
+		"Frameworks/Zip.framework/Zip",
+		"Frameworks/SJDownloadDataTask.framework/_CodeSignature/CodeResources",
+		"Frameworks/SJDownloadDataTask.framework/SJDownloadDataTask",
+		"Frameworks/EmptyDataSet_Swift.framework/_CodeSignature/CodeResources",
+		"Frameworks/EmptyDataSet_Swift.framework/EmptyDataSet_Swift",
+		"Frameworks/Masonry.framework/_CodeSignature/CodeResources",
+		"Frameworks/Masonry.framework/Masonry",
+		"Frameworks/YYModel.framework/_CodeSignature/CodeResources",
+		"Frameworks/YYModel.framework/YYModel",
+		"Frameworks/Alamofire.framework/_CodeSignature/CodeResources",
+		"Frameworks/Alamofire.framework/Alamofire",
+		"Frameworks/SnapKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/SnapKit.framework/SnapKit",
+		"Frameworks/MJRefresh.framework/_CodeSignature/CodeResources",
+		"Frameworks/MJRefresh.framework/MJRefresh",
+		"Frameworks/Result.framework/_CodeSignature/CodeResources",
+		"Frameworks/Result.framework/Result",
+		"Frameworks/RealmSwift.framework/_CodeSignature/CodeResources",
+		"Frameworks/RealmSwift.framework/RealmSwift",
+		"Frameworks/Reusable.framework/_CodeSignature/CodeResources",
+		"Frameworks/Reusable.framework/Reusable",
+		"Frameworks/SJM3U8Downloader.framework/_CodeSignature/CodeResources",
+		"Frameworks/SJM3U8Downloader.framework/SJM3U8Downloader",
+		"Frameworks/GCDWebServer.framework/_CodeSignature/CodeResources",
+		"Frameworks/GCDWebServer.framework/GCDWebServer",
+		"Frameworks/Kingfisher.framework/_CodeSignature/CodeResources",
+		"Frameworks/Kingfisher.framework/Kingfisher",
+		"Frameworks/FSPagerView.framework/_CodeSignature/CodeResources",
+		"Frameworks/FSPagerView.framework/FSPagerView",
+		"Frameworks/SDWebImage.framework/_CodeSignature/CodeResources",
+		"Frameworks/SDWebImage.framework/SDWebImage",
+		"Frameworks/Realm.framework/_CodeSignature/CodeResources",
+		"Frameworks/Realm.framework/Realm",
+		"Frameworks/LXDLNA.framework/_CodeSignature/CodeResources",
+		"Frameworks/LXDLNA.framework/LXDLNA",
+		"Frameworks/Then.framework/_CodeSignature/CodeResources",
+		"Frameworks/Then.framework/Then",
+		"Frameworks/HMSegmentedControl.framework/_CodeSignature/CodeResources",
+		"Frameworks/HMSegmentedControl.framework/HMSegmentedControl",
+		"Frameworks/UINavigation_SXFixSpace.framework/_CodeSignature/CodeResources",
+		"Frameworks/UINavigation_SXFixSpace.framework/UINavigation_SXFixSpace",
+		"Frameworks/KSAdSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/KSAdSDK.framework/KSAdSDK",
+		"Frameworks/Moya.framework/_CodeSignature/CodeResources",
+		"Frameworks/Moya.framework/Moya",
+		"Frameworks/SJUIKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/SJUIKit.framework/SJUIKit",
+		"Frameworks/CocoaAsyncSocket.framework/_CodeSignature/CodeResources",
+		"Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket",
+		"Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources",
+		"Frameworks/Toast_Swift.framework/Toast_Swift",
+		"Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources",
+		"Frameworks/MBProgressHUD.framework/MBProgressHUD",
+		"Frameworks/LLCycleScrollView.framework/_CodeSignature/CodeResources",
+		"Frameworks/LLCycleScrollView.framework/LLCycleScrollView",
+		"Frameworks/SnapKitExtend.framework/_CodeSignature/CodeResources",
+		"Frameworks/SnapKitExtend.framework/SnapKitExtend",
+		"Frameworks/KeychainSwift.framework/_CodeSignature/CodeResources",
+		"Frameworks/KeychainSwift.framework/KeychainSwift",
+		"Frameworks/Reachability.framework/_CodeSignature/CodeResources",
+		"Frameworks/Reachability.framework/Reachability",
+		"Frameworks/ESTabBarController_swift.framework/_CodeSignature/CodeResources",
+		"Frameworks/ESTabBarController_swift.framework/ESTabBarController_swift",
+		"Frameworks/Gzip.framework/_CodeSignature/CodeResources",
+		"Frameworks/Gzip.framework/Gzip",
+		"embedded.mobileprovision"
+	],
+	"exec" : "LLMB",
+	"files" : 
+	[
+		"roots.dylib",
+		"Frameworks/libswift_Concurrency.dylib",
+		"小喵.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "org.cocoapods.SwiftAlertView",
+			"bver" : "1",
+			"exec" : "SwiftAlertView",
+			"path" : "Frameworks/SwiftAlertView.framework",
+			"sha1" : "gZSGuxeuMbWc1e0SFq+FotZV50A=",
+			"sha2" : "QEu33G27zOmoToToOnVSJq9ClktHfzX/Sh8rhEe0BRc="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SwiftyJSON",
+			"bver" : "1",
+			"exec" : "SwiftyJSON",
+			"path" : "Frameworks/SwiftyJSON.framework",
+			"sha1" : "QEaqbKdhYQ439iIz0D+U7fSEwsA=",
+			"sha2" : "gdDHCx+5o+cOcE8YozmPYGdivOpXjyHzJOM4468T8J8="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SJBaseVideoPlayer",
+			"bver" : "1",
+			"exec" : "SJBaseVideoPlayer",
+			"path" : "Frameworks/SJBaseVideoPlayer.framework",
+			"sha1" : "ADBrtar3B84C3b9KLuTc7emsipM=",
+			"sha2" : "WRlhCCmvvfL/Jpd/A1Xek9BYFOIjLatKP535dvP+ba4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SJMediaCacheServer",
+			"bver" : "1",
+			"exec" : "SJMediaCacheServer",
+			"path" : "Frameworks/SJMediaCacheServer.framework",
+			"sha1" : "98jBq/W60ubHIL4Vn5DGrBHSF2c=",
+			"sha2" : "Px0apCBqRiIL9PDABxWbDyGIavxcubqbITUh7XJ+W+k="
+		},
+		
+		{
+			"bid" : "org.cocoapods.CryptoSwift",
+			"bver" : "1",
+			"exec" : "CryptoSwift",
+			"path" : "Frameworks/CryptoSwift.framework",
+			"sha1" : "FMiUkfuy3PtqhRQF7KGMTNELfNc=",
+			"sha2" : "Q+01LrxuWAqW9nhQnwMUg3Om6j8IcjrB4Z2WeOI9Bz4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.HandyJSON",
+			"bver" : "1",
+			"exec" : "HandyJSON",
+			"path" : "Frameworks/HandyJSON.framework",
+			"sha1" : "Di4ddkLAxz9rbVLZON3+1iKT0t4=",
+			"sha2" : "AmO8Lw2rDPIGc19p+R6Ekbz9RtgYuuRP6ulm6MP+jHs="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SJVideoPlayer",
+			"bver" : "1",
+			"exec" : "SJVideoPlayer",
+			"path" : "Frameworks/SJVideoPlayer.framework",
+			"sha1" : "X8x9g6Y8G/K/aqO6ubvHvp9gsk4=",
+			"sha2" : "Dv3oFRilMv1DlrFX8t0aTx/hzjC76YIxIfKknhx8T0c="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Zip",
+			"bver" : "1",
+			"exec" : "Zip",
+			"path" : "Frameworks/Zip.framework",
+			"sha1" : "7e5LAx2yY0ahQ/H4MOM4VnqZ1iA=",
+			"sha2" : "sVnvLHBMu7t7QrbA3vVtDfDZlstzG36BlRtTwBwrNTg="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SJDownloadDataTask",
+			"bver" : "1",
+			"exec" : "SJDownloadDataTask",
+			"path" : "Frameworks/SJDownloadDataTask.framework",
+			"sha1" : "o+HUvWeBOKeb1It9LDVMvtEbykM=",
+			"sha2" : "9eGHgu0JzDnkCv8KxwF85egFUNAfWx/9ZKsjjUHJEpc="
+		},
+		
+		{
+			"bid" : "org.cocoapods.EmptyDataSet-Swift",
+			"bver" : "1",
+			"exec" : "EmptyDataSet_Swift",
+			"path" : "Frameworks/EmptyDataSet_Swift.framework",
+			"sha1" : "tQbDNAVWBETM93We6oNBGIjd9TE=",
+			"sha2" : "4PFW3+u56oDvO9L3FMWTQKTM24wvlTmW+kooKE9T+v4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Masonry",
+			"bver" : "1",
+			"exec" : "Masonry",
+			"path" : "Frameworks/Masonry.framework",
+			"sha1" : "3yPY9O+ogCk8oGTBMRRFiU4jYJA=",
+			"sha2" : "ZeKpFK0PT5ZLKj2x9+2u0NrBZG28ahNPeu/L8MV2kzs="
+		},
+		
+		{
+			"bid" : "org.cocoapods.YYModel",
+			"bver" : "1",
+			"exec" : "YYModel",
+			"path" : "Frameworks/YYModel.framework",
+			"sha1" : "CKWO67Cd1qtSJC6t97KmyGWenpY=",
+			"sha2" : "xxAmQuEpS77L/sLGlUOd4FHQ/UYFEo0i9bCWW8bbeG4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Alamofire",
+			"bver" : "1",
+			"exec" : "Alamofire",
+			"path" : "Frameworks/Alamofire.framework",
+			"sha1" : "+yNbMDImnGI1JCuFcLw3xR/0kDw=",
+			"sha2" : "8GYoi21skbReRmv9YLck5XUOmfRE18qOjd5eHouTLIU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SnapKit",
+			"bver" : "1",
+			"exec" : "SnapKit",
+			"path" : "Frameworks/SnapKit.framework",
+			"sha1" : "ty3fKVzWYtkNkg9mM413aGA5l8E=",
+			"sha2" : "fMq+5qAQZ1XvlCyBGPkLMc9zi93Te0weEx0SIPaNeYc="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MJRefresh",
+			"bver" : "1",
+			"exec" : "MJRefresh",
+			"path" : "Frameworks/MJRefresh.framework",
+			"sha1" : "diXS5feRY4HBAIguMsfW7EX3Msw=",
+			"sha2" : "SFm3pGQjDoaQBZs9kj5gHiveZk3ig5vdiCvy6RlSLEQ="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Result",
+			"bver" : "1",
+			"exec" : "Result",
+			"path" : "Frameworks/Result.framework",
+			"sha1" : "RlzfSDwky1J/GNJlJLVe9GTlQoM=",
+			"sha2" : "KD/cOdHuvqqgWlBfy95fCA1/rf7dKYTLoMgGQsAX5R0="
+		},
+		
+		{
+			"bid" : "org.cocoapods.RealmSwift",
+			"bver" : "1",
+			"exec" : "RealmSwift",
+			"path" : "Frameworks/RealmSwift.framework",
+			"sha1" : "SPBW78O0HW4dOmEmI/6WA6Xa18o=",
+			"sha2" : "EJne0KKqqY6YSNZIQyQR2jIVYBsIQOx6wQ5zFTbsvwI="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Reusable",
+			"bver" : "1",
+			"exec" : "Reusable",
+			"path" : "Frameworks/Reusable.framework",
+			"sha1" : "7sfGLpmbzXm2D0+fHdINj3Lhwnk=",
+			"sha2" : "oS1vPTmlKbqWOV+H/3FFbonlgJBqwv/KNlhJzkYVPCA="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SJM3U8Downloader",
+			"bver" : "1",
+			"exec" : "SJM3U8Downloader",
+			"path" : "Frameworks/SJM3U8Downloader.framework",
+			"sha1" : "Yrd4kUy2BgODsrLmkExkWzdnDeE=",
+			"sha2" : "04lpkNdMi2wiU1a1IaTf9rZKUFpHIc2QO1p4rh3y/6o="
+		},
+		
+		{
+			"bid" : "org.cocoapods.GCDWebServer",
+			"bver" : "1",
+			"exec" : "GCDWebServer",
+			"path" : "Frameworks/GCDWebServer.framework",
+			"sha1" : "Isliupw+rqXcZFaPxyFjioGe0js=",
+			"sha2" : "B8lKNCpznExMMVrTmNOSVL5z2ULCufsgBfK0cpMNwlM="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Kingfisher",
+			"bver" : "1",
+			"exec" : "Kingfisher",
+			"path" : "Frameworks/Kingfisher.framework",
+			"sha1" : "GsVsqdFuUrKJLOIA/qEP5+RaXJA=",
+			"sha2" : "IB8amCA8IZeVBsf4aClEBv+v/4XafnkCf7Tl8PfUCm4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.FSPagerView",
+			"bver" : "1",
+			"exec" : "FSPagerView",
+			"path" : "Frameworks/FSPagerView.framework",
+			"sha1" : "EtRsSUhURtHdzEjbu/rorj9jhRo=",
+			"sha2" : "T2SIWli4BLSzaCuxQafp9UZgip6LCwoWF7a0sx1rTnw="
+		},
+		
+		{
+			"bid" : "com.dailymotion.SDWebImage",
+			"bver" : "5.8.4",
+			"exec" : "SDWebImage",
+			"path" : "Frameworks/SDWebImage.framework",
+			"sha1" : "yzBxI19+hHBerFG2vTGg/YBpomU=",
+			"sha2" : "U3DNjZ5j26l2pbfv0YOFnWu7MxR1mzVjPK2Ki+pLfNw="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Realm",
+			"bver" : "1",
+			"exec" : "Realm",
+			"path" : "Frameworks/Realm.framework",
+			"sha1" : "Hrk4X5+JEPgkE+OZ9ngIO6o4Shg=",
+			"sha2" : "5qcrCrRcPNabgwJe/bsHWo2MBW6c014cXRmt6r65XJE="
+		},
+		
+		{
+			"bid" : "org.cocoapods.LXDLNA",
+			"bver" : "1",
+			"exec" : "LXDLNA",
+			"path" : "Frameworks/LXDLNA.framework",
+			"sha1" : "Q2oY2LW9Fu8guugfpAxVk02i0rs=",
+			"sha2" : "U1bBVhqX/QiAS7zJM8YnYR9uaaiIJY5Nuv0KGUnBSwE="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Then",
+			"bver" : "1",
+			"exec" : "Then",
+			"path" : "Frameworks/Then.framework",
+			"sha1" : "NNxY6ubQL+88DDCJ46AWR7n/tgA=",
+			"sha2" : "1aQYAvuy1wnG/LsaNlqxR3hOiRqlUBizhfHk5mLhSC8="
+		},
+		
+		{
+			"bid" : "org.cocoapods.HMSegmentedControl",
+			"bver" : "1",
+			"exec" : "HMSegmentedControl",
+			"path" : "Frameworks/HMSegmentedControl.framework",
+			"sha1" : "teByM7i85gQa751ja4rLlvzZM84=",
+			"sha2" : "GLkBhr23y2Ft7VV35tKZxV5VRJfDospeWElkEykwg5Q="
+		},
+		
+		{
+			"bid" : "org.cocoapods.UINavigation-SXFixSpace",
+			"bver" : "1",
+			"exec" : "UINavigation_SXFixSpace",
+			"path" : "Frameworks/UINavigation_SXFixSpace.framework",
+			"sha1" : "bIGYBmcfhggr6oMJJVQ0+NgoUm4=",
+			"sha2" : "ihVdnY0R8V9tLfZn/RWBSmMjVzWM9uarnz7z7qeWrM4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KSAdSDK",
+			"bver" : "1",
+			"exec" : "KSAdSDK",
+			"path" : "Frameworks/KSAdSDK.framework",
+			"sha1" : "vUq23j3Y7rw9UiUgl9rQBk8iAHQ=",
+			"sha2" : "ATa3UZ5//W0fQrc4zk8g691KK1F7A0/5kVWQ2HMTSLU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Moya",
+			"bver" : "1",
+			"exec" : "Moya",
+			"path" : "Frameworks/Moya.framework",
+			"sha1" : "H4EGgTcgIsAffFRBv3oVKNYyRRk=",
+			"sha2" : "vMn3bHslRdb6Oeyr+T32+D3p3d1RwZq2cmrYHp0TZE8="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SJUIKit",
+			"bver" : "1",
+			"exec" : "SJUIKit",
+			"path" : "Frameworks/SJUIKit.framework",
+			"sha1" : "1hxUDCCHY8IRE8+PEgX4XJGEPzE=",
+			"sha2" : "Rykpw0o/QBPF9Bu340yx3kZdzN4fGBN9fVBOQp41lWw="
+		},
+		
+		{
+			"bid" : "org.cocoapods.CocoaAsyncSocket",
+			"bver" : "1",
+			"exec" : "CocoaAsyncSocket",
+			"path" : "Frameworks/CocoaAsyncSocket.framework",
+			"sha1" : "LiaZczmgLFCKYIygcTdcjdU7mqg=",
+			"sha2" : "EaABLp2Tt9LDFD9e8ARH67BMdzwasIjAcTqBkVSUWDE="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Toast-Swift",
+			"bver" : "1",
+			"exec" : "Toast_Swift",
+			"path" : "Frameworks/Toast_Swift.framework",
+			"sha1" : "oe+1pP2vGw7nFVnfuKVLcdFtu4g=",
+			"sha2" : "G7Y3gMnozbAQSBv1QRtquNGvtsgU9gjJoefOjvihnBU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MBProgressHUD",
+			"bver" : "1",
+			"exec" : "MBProgressHUD",
+			"path" : "Frameworks/MBProgressHUD.framework",
+			"sha1" : "R+sR0M0pqYh8vdIvrJbtAfE+W6Y=",
+			"sha2" : "T8v24zLDgLdj47MXG3R76ZJB/a4Vo3d7xGjdk6SXn1M="
+		},
+		
+		{
+			"bid" : "org.cocoapods.LLCycleScrollView",
+			"bver" : "1",
+			"exec" : "LLCycleScrollView",
+			"path" : "Frameworks/LLCycleScrollView.framework",
+			"sha1" : "+Tp/SfyvHuJEUslRKvJAm63DkcM=",
+			"sha2" : "Nfrpk+9vDDF8zkm0FC37lWVAoLkx0aWG33A59Y9wOrw="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SnapKitExtend",
+			"bver" : "1",
+			"exec" : "SnapKitExtend",
+			"path" : "Frameworks/SnapKitExtend.framework",
+			"sha1" : "KAJgUl4HvMbM8N5tIjOdGdzzEJI=",
+			"sha2" : "fMYfEdkTuhj9XUJlfIu1infAIXxl7nPXBs1XLxBHY5g="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KeychainSwift",
+			"bver" : "1",
+			"exec" : "KeychainSwift",
+			"path" : "Frameworks/KeychainSwift.framework",
+			"sha1" : "FX0KU7CPt7Writ9KvRLu+hUo4ss=",
+			"sha2" : "Jc+f12ir0eWRqAlfafZMFpT6Wl/pd8arUlywYfuMNUw="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Reachability",
+			"bver" : "1",
+			"exec" : "Reachability",
+			"path" : "Frameworks/Reachability.framework",
+			"sha1" : "Nl1VMUYh/kbiq52y0kTvP+gQpPE=",
+			"sha2" : "jE+ijPOSByXMZXGySzAcyQoW226EeEGbHUgGYXZ+Rb4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.ESTabBarController-swift",
+			"bver" : "1",
+			"exec" : "ESTabBarController_swift",
+			"path" : "Frameworks/ESTabBarController_swift.framework",
+			"sha1" : "sTeGKsk/U3kpc5HkXaT33I4pIUI=",
+			"sha2" : "xbSuJZ0CcQd8T7RNZid1ijjOoOxwWxNRNYcIIRK45bI="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Gzip",
+			"bver" : "1",
+			"exec" : "Gzip",
+			"path" : "Frameworks/Gzip.framework",
+			"sha1" : "f7O8sYKX7hvyRDJtx8dgBTnsRuE=",
+			"sha2" : "GOJG+0Tf5PSEezAwHQPqzDT4NCPFoebEdKNvaCzIS5c="
+		}
+	],
+	"name" : "小喵影视",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683900228/Payload/LLMB.app",
+	"sha1" : "4Wy9v2slR8BrYpuH6u2/NXSUu/A=",
+	"sha2" : "qp1WgvCWMfzj65mvIo0QMshFW6xGA9/Izzbe+n1vVok="
+}

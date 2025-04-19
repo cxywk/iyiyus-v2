@@ -1,0 +1,341 @@
+
+{
+	"bid" : "com.yeelion.kwplayer",
+	"bver" : "10062",
+	"changed" : 
+	[
+		"导出.dylib",
+		"kwsvip.dylib",
+		"libsubstitnet.dylib",
+		"roots.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/FAFoundation.framework/_CodeSignature/CodeResources",
+		"Frameworks/FAFoundation.framework/FAFoundation",
+		"Frameworks/FLAnimatedImage.framework/_CodeSignature/CodeResources",
+		"Frameworks/FLAnimatedImage.framework/FLAnimatedImage",
+		"Frameworks/YYText.framework/_CodeSignature/CodeResources",
+		"Frameworks/YYText.framework/YYText",
+		"Frameworks/Flutter.framework/_CodeSignature/CodeResources",
+		"Frameworks/Flutter.framework/Flutter",
+		"Frameworks/WebRTC.framework/_CodeSignature/CodeResources",
+		"Frameworks/WebRTC.framework/WebRTC",
+		"Frameworks/FMDB.framework/_CodeSignature/CodeResources",
+		"Frameworks/FMDB.framework/FMDB",
+		"Frameworks/KGNetworking.framework/_CodeSignature/CodeResources",
+		"Frameworks/KGNetworking.framework/KGNetworking",
+		"Frameworks/TXFFmpeg.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXFFmpeg.framework/TXFFmpeg",
+		"Frameworks/tp2p.framework/_CodeSignature/CodeResources",
+		"Frameworks/tp2p.framework/tp2p",
+		"Frameworks/RtsSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/RtsSDK.framework/RtsSDK",
+		"Frameworks/KGSafeKit.framework/_CodeSignature/CodeResources",
+		"Frameworks/KGSafeKit.framework/KGSafeKit",
+		"Frameworks/SocketRocket.framework/_CodeSignature/CodeResources",
+		"Frameworks/SocketRocket.framework/SocketRocket",
+		"Frameworks/YYImage.framework/_CodeSignature/CodeResources",
+		"Frameworks/YYImage.framework/YYImage",
+		"Frameworks/KGBeautyCore.framework/_CodeSignature/CodeResources",
+		"Frameworks/KGBeautyCore.framework/KGBeautyCore",
+		"Frameworks/TXSoundTouch.framework/_CodeSignature/CodeResources",
+		"Frameworks/TXSoundTouch.framework/TXSoundTouch",
+		"Frameworks/SSZipArchive.framework/_CodeSignature/CodeResources",
+		"Frameworks/SSZipArchive.framework/SSZipArchive",
+		"Frameworks/MJExtension.framework/_CodeSignature/CodeResources",
+		"Frameworks/MJExtension.framework/MJExtension",
+		"Frameworks/SDWebImage.framework/_CodeSignature/CodeResources",
+		"Frameworks/SDWebImage.framework/SDWebImage",
+		"Frameworks/KGThirdParty.framework/_CodeSignature/CodeResources",
+		"Frameworks/KGThirdParty.framework/KGThirdParty",
+		"Frameworks/TencentXP2P.framework/_CodeSignature/CodeResources",
+		"Frameworks/TencentXP2P.framework/TencentXP2P",
+		"Frameworks/libpag.framework/_CodeSignature/CodeResources",
+		"Frameworks/libpag.framework/libpag",
+		"Frameworks/ultimateBluetoothSDK.framework/_CodeSignature/CodeResources",
+		"Frameworks/ultimateBluetoothSDK.framework/ultimateBluetoothSDK",
+		"Frameworks/KGCronet.framework/_CodeSignature/CodeResources",
+		"Frameworks/KGCronet.framework/KGCronet",
+		"Frameworks/Protobuf.framework/_CodeSignature/CodeResources",
+		"Frameworks/Protobuf.framework/Protobuf",
+		"Frameworks/App.framework/_CodeSignature/CodeResources",
+		"Frameworks/App.framework/App",
+		"Frameworks/ZegoLiveRoom.framework/_CodeSignature/CodeResources",
+		"Frameworks/ZegoLiveRoom.framework/ZegoLiveRoom",
+		"Frameworks/FA3DAvatar.framework/_CodeSignature/CodeResources",
+		"Frameworks/FA3DAvatar.framework/FA3DAvatar",
+		"Frameworks/libwebp.framework/_CodeSignature/CodeResources",
+		"Frameworks/libwebp.framework/libwebp",
+		"embedded.mobileprovision"
+	],
+	"exec" : "KWPlayer",
+	"files" : 
+	[
+		"导出.dylib",
+		"kwsvip.dylib",
+		"libsubstitnet.dylib",
+		"roots.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "org.cocoapods.FAFoundation",
+			"bver" : "10062",
+			"exec" : "FAFoundation",
+			"path" : "Frameworks/FAFoundation.framework",
+			"sha1" : "v3Re8xtLuUXCWD6TEQIMCo2agww=",
+			"sha2" : "EFs5ri3qki/9ZSj7WHdD07dF1KaXiShyEIWc+S6JEds="
+		},
+		
+		{
+			"bid" : "org.cocoapods.FLAnimatedImage",
+			"bver" : "10062",
+			"exec" : "FLAnimatedImage",
+			"path" : "Frameworks/FLAnimatedImage.framework",
+			"sha1" : "LTszUQSZoGhbb+y7nIKVwk+aQog=",
+			"sha2" : "j1K1gh1ZqfhynOwJzkbTCyp227K8rEVan2T6ksMkMOU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.YYText",
+			"bver" : "10062",
+			"exec" : "YYText",
+			"path" : "Frameworks/YYText.framework",
+			"sha1" : "eofs2srZRxI7i4JxircEoqsmQDQ=",
+			"sha2" : "XLqwzFcQWIoKacNUQDDhIJu0uDOrp3BONg8QwoBsfpc="
+		},
+		
+		{
+			"bid" : "io.flutter.flutter",
+			"bver" : "10062",
+			"exec" : "Flutter",
+			"path" : "Frameworks/Flutter.framework",
+			"sha1" : "YICc+u5/KA2fZD9QDbJsYh537is=",
+			"sha2" : "b4GJREoRLIUkG+00VMZf4hSD+XfYGctCnL8J1N4AkgE="
+		},
+		
+		{
+			"bid" : "com.kugou.AppRTCMobileFramework",
+			"bver" : "10062",
+			"exec" : "WebRTC",
+			"path" : "Frameworks/WebRTC.framework",
+			"sha1" : "5sc3AqDo/Xi6iJDVkYwTiP4bg5k=",
+			"sha2" : "whZWhce4VO77MYafp0iE3vmPZgrycbtpdMlg6oIAQNM="
+		},
+		
+		{
+			"bid" : "org.cocoapods.FMDB",
+			"bver" : "10062",
+			"exec" : "FMDB",
+			"path" : "Frameworks/FMDB.framework",
+			"sha1" : "PDe/XXE1usC5fPM9FgxOJ4wo88g=",
+			"sha2" : "w2DVfIHEInjUsqSeRTrC0km2q+a0M8wtByz5qKFOU64="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KGNetworking",
+			"bver" : "10062",
+			"exec" : "KGNetworking",
+			"path" : "Frameworks/KGNetworking.framework",
+			"sha1" : "/XV/d+tESHqoTQhJ3MmABR1Jyt4=",
+			"sha2" : "uyOSUuwyx6vVJXpoMz+1qzOg21Q1kGAyhyLI0cn/wGc="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.FFMPEG",
+			"bver" : "10062",
+			"exec" : "TXFFmpeg",
+			"path" : "Frameworks/TXFFmpeg.framework",
+			"sha1" : "CHwYeAIjx8AKKK0cW8+2CR/laMo=",
+			"sha2" : "0Y3LRKCUBWOE7uf59dYVNzohp7/+dX1dkcfhf/oyOqQ="
+		},
+		
+		{
+			"bid" : "com.tme.tp2p",
+			"bver" : "10062",
+			"exec" : "tp2p",
+			"path" : "Frameworks/tp2p.framework",
+			"sha1" : "NaiAONhQMsvwoWZnN1x+2K9Tq9o=",
+			"sha2" : "f+z6rM1gT3QstIpqoN1xHIVN71OHkxCQczBoEST/Z2w="
+		},
+		
+		{
+			"bid" : "com.aliyun.rts",
+			"bver" : "10062",
+			"exec" : "RtsSDK",
+			"path" : "Frameworks/RtsSDK.framework",
+			"sha1" : "wLDvo+3E3/EfX2xalBa6t/MARtM=",
+			"sha2" : "+/pSjDSPN+4rlNNIxmSERnLXV7qvKWEl/IqPCMaZxPA="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KGSafeKit",
+			"bver" : "10062",
+			"exec" : "KGSafeKit",
+			"path" : "Frameworks/KGSafeKit.framework",
+			"sha1" : "LU0FKClH76u2kxsj67VvD5Wfz/w=",
+			"sha2" : "/bxpsRHGd4dlf5rMY11kV6+qeSlbYimH6CEZ8/V7wnU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SocketRocket",
+			"bver" : "10062",
+			"exec" : "SocketRocket",
+			"path" : "Frameworks/SocketRocket.framework",
+			"sha1" : "0EpZ9Z/gfLth9MHOa/RPgGW9kmQ=",
+			"sha2" : "fhj0wBNzq39G9UnT/vD7HG9SwjrklpQbqtKFtgNJx9c="
+		},
+		
+		{
+			"bid" : "org.cocoapods.YYImage",
+			"bver" : "10062",
+			"exec" : "YYImage",
+			"path" : "Frameworks/YYImage.framework",
+			"sha1" : "8ED2HCz3qSXNyTBp4b3OdexmBmk=",
+			"sha2" : "9IcQIPoc7Paw5Wty83EYvr/IbWFV+YOdGighGzcYOsQ="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KGBeautyCore",
+			"bver" : "10062",
+			"exec" : "KGBeautyCore",
+			"path" : "Frameworks/KGBeautyCore.framework",
+			"sha1" : "G4dAFaaInydsmcdFpjKZFI2hENM=",
+			"sha2" : "KL7gf/rBNdGsiEzZZcm+Gj9simXBHjveJQHXvZWSI8c="
+		},
+		
+		{
+			"bid" : "com.tencent.liteav.SoundTouch",
+			"bver" : "10062",
+			"exec" : "TXSoundTouch",
+			"path" : "Frameworks/TXSoundTouch.framework",
+			"sha1" : "JDmT1zF70X5H+U0JRAulcT8EUc0=",
+			"sha2" : "T/akJoRXXvch8JcAjGU8/u2h7kj4V3WnoeebvMo1InM="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SSZipArchive",
+			"bver" : "10062",
+			"exec" : "SSZipArchive",
+			"path" : "Frameworks/SSZipArchive.framework",
+			"sha1" : "9aKEf+T28jGuQnWAO1XuWdzlOmw=",
+			"sha2" : "kvQgvK1RACjjBdL10meE1wxjObLRAOKe19PcIvuHMDo="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MJExtension",
+			"bver" : "10062",
+			"exec" : "MJExtension",
+			"path" : "Frameworks/MJExtension.framework",
+			"sha1" : "XcNFmx+6ndNwnyZfGAtuqaA23UI=",
+			"sha2" : "1OuWamPdVdrCsWry9Z6QuSVFqPnKB85PsldUsH65Rmg="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SDWebImage",
+			"bver" : "10062",
+			"exec" : "SDWebImage",
+			"path" : "Frameworks/SDWebImage.framework",
+			"sha1" : "y00VS+jIlUNAZolwPwYuJ7DUqE4=",
+			"sha2" : "8Z6YeVQVrPhONgPE/nk7Ff6TW90kuDQTMinXyqB1dpw="
+		},
+		
+		{
+			"bid" : "org.cocoapods.KGThirdParty",
+			"bver" : "10062",
+			"exec" : "KGThirdParty",
+			"path" : "Frameworks/KGThirdParty.framework",
+			"sha1" : "Egr0K36omHtB7sFYhJtXdAsej60=",
+			"sha2" : "rQDKQn8CloS46KiX5BRfHvftTRmk8T8K3P+7sEO8xN0="
+		},
+		
+		{
+			"bid" : "qcloud.TencentXP2P",
+			"bver" : "10062",
+			"exec" : "TencentXP2P",
+			"path" : "Frameworks/TencentXP2P.framework",
+			"sha1" : "n8cOxmO8c0Att0NAiOfYfx5IjQI=",
+			"sha2" : "PVSywhB5bh7fsPl9EU0QaK46cuyjBRa0i+ZC8Dzyxjg="
+		},
+		
+		{
+			"bid" : "org.cocoapods.libpag",
+			"bver" : "10062",
+			"exec" : "libpag",
+			"path" : "Frameworks/libpag.framework",
+			"sha1" : "cLVJHuiHlbP296eAGM6qWrqoMes=",
+			"sha2" : "5wQsECHOlBcE5smOkGWR8l7Chh8lG3Hyq3wS0hOOT0c="
+		},
+		
+		{
+			"bid" : "com.kugou.ultimateBluetoothSDK",
+			"bver" : "10062",
+			"exec" : "ultimateBluetoothSDK",
+			"path" : "Frameworks/ultimateBluetoothSDK.framework",
+			"sha1" : "L/hkrE6YhW8ulCs+wBfmOn06f7Q=",
+			"sha2" : "vRd/r5o/aIJcwIGd+9vl2MXjwVFpnSTdtD4w/MkInI0="
+		},
+		
+		{
+			"bid" : "com.Franky.KGCronet",
+			"bver" : "10062",
+			"exec" : "KGCronet",
+			"path" : "Frameworks/KGCronet.framework",
+			"sha1" : "hDEFAAJOD0sg4AsJziggKEmUg18=",
+			"sha2" : "YnrkneOhvG+5XwMho8F+6ENDn5e7WT7ZglZAfchKDeo="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Protobuf",
+			"bver" : "10062",
+			"exec" : "Protobuf",
+			"path" : "Frameworks/Protobuf.framework",
+			"sha1" : "oMtYpfDxdSrFBDhbzmVi7JGzTKg=",
+			"sha2" : "J4NL0VvtyPWgJp/0yTP87tASkVIZw0Z+a9j6YFiEfJI="
+		},
+		
+		{
+			"bid" : "io.flutter.flutter.app",
+			"bver" : "10062",
+			"exec" : "App",
+			"path" : "Frameworks/App.framework",
+			"sha1" : "Oy5FxhBvvz7FbVgVTra8nnYPhmI=",
+			"sha2" : "sWUPZjWpSRe0OK1EIkDdh0ohAkSL+mTPtZUMlDfWd54="
+		},
+		
+		{
+			"bid" : "com.zego.ZegoLiveRoom",
+			"bver" : "10062",
+			"exec" : "ZegoLiveRoom",
+			"path" : "Frameworks/ZegoLiveRoom.framework",
+			"sha1" : "PWiLInuGeEznhjr4nIJCBOlws8I=",
+			"sha2" : "WR0gitc11JzG6ms+xxqfsyLS5OSsphsL14IRZE7VWkg="
+		},
+		
+		{
+			"bid" : "com.FanXing.FA3DAvatar",
+			"bver" : "10062",
+			"exec" : "FA3DAvatar",
+			"path" : "Frameworks/FA3DAvatar.framework",
+			"sha1" : "jSLafvYQSg6ggUq8Xo04YhWQz1A=",
+			"sha2" : "QM/zmCUGcLaFFjSekfZwx3fr51a12brAl0/xBEQx3Ic="
+		},
+		
+		{
+			"bid" : "org.cocoapods.libwebp",
+			"bver" : "10062",
+			"exec" : "libwebp",
+			"path" : "Frameworks/libwebp.framework",
+			"sha1" : "eNiLJyisHG6F1Tn7epGeTvEuJ6o=",
+			"sha2" : "3iS26+gWRG8xveTs42SMSkcmx9PkPPkZZJbH2pvxC2c="
+		}
+	],
+	"name" : "酷我音乐",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684163353/Payload/KWPlayer.app",
+	"sha1" : "0uJxudtW5KCMKJrGZNsAYKiIqXQ=",
+	"sha2" : "G1G84BMiuPgr3QrMPT71uEzlaYcLRXpZIHfMPdP3kLI="
+}

@@ -1,0 +1,352 @@
+
+{
+	"bid" : "com.erik.HookAppLD",
+	"bver" : "10",
+	"changed" : 
+	[
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"Frameworks/libcycript.dylib",
+		"Frameworks/libHookAppDylib.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources",
+		"Frameworks/SVProgressHUD.framework/SVProgressHUD",
+		"Frameworks/YYText.framework/_CodeSignature/CodeResources",
+		"Frameworks/YYText.framework/YYText",
+		"Frameworks/TZImagePickerController.framework/_CodeSignature/CodeResources",
+		"Frameworks/TZImagePickerController.framework/TZImagePickerController",
+		"Frameworks/GTMBase64.framework/_CodeSignature/CodeResources",
+		"Frameworks/GTMBase64.framework/GTMBase64",
+		"Frameworks/JSONModel.framework/_CodeSignature/CodeResources",
+		"Frameworks/JSONModel.framework/JSONModel",
+		"Frameworks/BRPickerView.framework/_CodeSignature/CodeResources",
+		"Frameworks/BRPickerView.framework/BRPickerView",
+		"Frameworks/AFNetworking.framework/_CodeSignature/CodeResources",
+		"Frameworks/AFNetworking.framework/AFNetworking",
+		"Frameworks/MSWeakTimer.framework/_CodeSignature/CodeResources",
+		"Frameworks/MSWeakTimer.framework/MSWeakTimer",
+		"Frameworks/pop.framework/_CodeSignature/CodeResources",
+		"Frameworks/pop.framework/pop",
+		"Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources",
+		"Frameworks/IQKeyboardManager.framework/IQKeyboardManager",
+		"Frameworks/Masonry.framework/_CodeSignature/CodeResources",
+		"Frameworks/Masonry.framework/Masonry",
+		"Frameworks/MFSIdentifier.framework/_CodeSignature/CodeResources",
+		"Frameworks/MFSIdentifier.framework/MFSIdentifier",
+		"Frameworks/MFSJSONEntity.framework/_CodeSignature/CodeResources",
+		"Frameworks/MFSJSONEntity.framework/MFSJSONEntity",
+		"Frameworks/MJRefresh.framework/_CodeSignature/CodeResources",
+		"Frameworks/MJRefresh.framework/MJRefresh",
+		"Frameworks/DACircularProgress.framework/_CodeSignature/CodeResources",
+		"Frameworks/DACircularProgress.framework/DACircularProgress",
+		"Frameworks/MagicalRecord.framework/_CodeSignature/CodeResources",
+		"Frameworks/MagicalRecord.framework/MagicalRecord",
+		"Frameworks/SSZipArchive.framework/_CodeSignature/CodeResources",
+		"Frameworks/SSZipArchive.framework/SSZipArchive",
+		"Frameworks/MJExtension.framework/_CodeSignature/CodeResources",
+		"Frameworks/MJExtension.framework/MJExtension",
+		"Frameworks/SDWebImage.framework/_CodeSignature/CodeResources",
+		"Frameworks/SDWebImage.framework/SDWebImage",
+		"Frameworks/ReactiveObjC.framework/_CodeSignature/CodeResources",
+		"Frameworks/ReactiveObjC.framework/ReactiveObjC",
+		"Frameworks/SDAutoLayout.framework/_CodeSignature/CodeResources",
+		"Frameworks/SDAutoLayout.framework/SDAutoLayout",
+		"Frameworks/MWPhotoBrowser.framework/_CodeSignature/CodeResources",
+		"Frameworks/MWPhotoBrowser.framework/MWPhotoBrowser",
+		"Frameworks/CocoaAsyncSocket.framework/_CodeSignature/CodeResources",
+		"Frameworks/CocoaAsyncSocket.framework/CocoaAsyncSocket",
+		"Frameworks/MFSCache.framework/_CodeSignature/CodeResources",
+		"Frameworks/MFSCache.framework/MFSCache",
+		"Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources",
+		"Frameworks/MBProgressHUD.framework/MBProgressHUD",
+		"Frameworks/RevealServer.framework/_CodeSignature/CodeResources",
+		"Frameworks/RevealServer.framework/RevealServer",
+		"Frameworks/ActionSheetPicker_3_0.framework/_CodeSignature/CodeResources",
+		"Frameworks/ActionSheetPicker_3_0.framework/ActionSheetPicker_3_0",
+		"Frameworks/TKCarouselView.framework/_CodeSignature/CodeResources",
+		"Frameworks/TKCarouselView.framework/TKCarouselView",
+		"Frameworks/AliyunOSSiOS.framework/_CodeSignature/CodeResources",
+		"Frameworks/AliyunOSSiOS.framework/AliyunOSSiOS",
+		"embedded.mobileprovision"
+	],
+	"exec" : "趣发圈圈",
+	"files" : 
+	[
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"Frameworks/libcycript.dylib",
+		"Frameworks/libHookAppDylib.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "org.cocoapods.SVProgressHUD",
+			"bver" : "1",
+			"exec" : "SVProgressHUD",
+			"path" : "Frameworks/SVProgressHUD.framework",
+			"sha1" : "pFT45rFhVP3tCnXrpld/bvLlrvk=",
+			"sha2" : "RDGX9U12AJ+4ROG8z32KEc+DDVptrZdcM+cnkvmVklU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.YYText",
+			"bver" : "1",
+			"exec" : "YYText",
+			"path" : "Frameworks/YYText.framework",
+			"sha1" : "jESzn0P5F6YriCVrqj/NZtwOQWM=",
+			"sha2" : "TEdlZ+h/A4VIHG2Poquxb8H2iYX/hdkjwz8GM8CefuE="
+		},
+		
+		{
+			"bid" : "org.cocoapods.TZImagePickerController",
+			"bver" : "1",
+			"exec" : "TZImagePickerController",
+			"path" : "Frameworks/TZImagePickerController.framework",
+			"sha1" : "V2nbC+R9zy9kn068kS86KeD/OL0=",
+			"sha2" : "3E0Z0NJ2Z2xTxjjw7KBpQgKbR5RJP/QglOgKPq9LHqo="
+		},
+		
+		{
+			"bid" : "org.cocoapods.GTMBase64",
+			"bver" : "1",
+			"exec" : "GTMBase64",
+			"path" : "Frameworks/GTMBase64.framework",
+			"sha1" : "iEy2Bag1/iUJPvp+47iF6YtGeRA=",
+			"sha2" : "Faq1YXzDof3tmDvMpazGkXse6HDA2f8VZtHBKm5Q0m4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.JSONModel",
+			"bver" : "1",
+			"exec" : "JSONModel",
+			"path" : "Frameworks/JSONModel.framework",
+			"sha1" : "6WTTo2hz36xn5YQlnWhwXApwUCE=",
+			"sha2" : "k1xtgt1VoO77FFUKOdny3Y2p0XxtEslOalIBwDZ3ZQo="
+		},
+		
+		{
+			"bid" : "org.cocoapods.BRPickerView",
+			"bver" : "1",
+			"exec" : "BRPickerView",
+			"path" : "Frameworks/BRPickerView.framework",
+			"sha1" : "6Rk6NQ9esdFdqigcZZNLTaLGWXA=",
+			"sha2" : "k7EZGLuYDbHaFHKIM5gD5FbLNbL5MPBVURnOuNKxh0M="
+		},
+		
+		{
+			"bid" : "org.cocoapods.AFNetworking",
+			"bver" : "1",
+			"exec" : "AFNetworking",
+			"path" : "Frameworks/AFNetworking.framework",
+			"sha1" : "n70wIbV27lXjuJ5/WcrQ3bpayKw=",
+			"sha2" : "qcOpewWf3X0aaaTkPr5xdjtOncRVBVcXL7YJ3FwUe/Y="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MSWeakTimer",
+			"bver" : "1",
+			"exec" : "MSWeakTimer",
+			"path" : "Frameworks/MSWeakTimer.framework",
+			"sha1" : "ymAWcX/ZYP2MoHNdAC7ACsBUtSI=",
+			"sha2" : "5oFIHjlm8nhGPIgvzVVypa0zwE2EYMpOfuoerAihqig="
+		},
+		
+		{
+			"bid" : "org.cocoapods.pop",
+			"bver" : "1",
+			"exec" : "pop",
+			"path" : "Frameworks/pop.framework",
+			"sha1" : "ZCFpg01KE5CIQi5fMhDCVLwm37U=",
+			"sha2" : "5RKQP2KPWJgIb4K0w/PYUg48eF6HaT6DgTG8TqwFHoE="
+		},
+		
+		{
+			"bid" : "org.cocoapods.IQKeyboardManager",
+			"bver" : "1",
+			"exec" : "IQKeyboardManager",
+			"path" : "Frameworks/IQKeyboardManager.framework",
+			"sha1" : "AXbK0nMq2teCCObc6bwQ/AJVxf4=",
+			"sha2" : "fkR43WgdbN0H5+sonXLY8DWAfbIqV9EYzdzcMM8lPK0="
+		},
+		
+		{
+			"bid" : "org.cocoapods.Masonry",
+			"bver" : "1",
+			"exec" : "Masonry",
+			"path" : "Frameworks/Masonry.framework",
+			"sha1" : "jiirqET9IJOr0Gn8S6T5qDttqGc=",
+			"sha2" : "30vnfBLvrpt33AEo3BvdqfNfRnGaULx770240Y50nuc="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MFSIdentifier",
+			"bver" : "1",
+			"exec" : "MFSIdentifier",
+			"path" : "Frameworks/MFSIdentifier.framework",
+			"sha1" : "M+cAV8LrBIxx8Ywzc+HOGIbHijY=",
+			"sha2" : "l7s5MtRqVXqZR4ZcfZJ2fzMtROhDvkLg+gYT3jtoReg="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MFSJSONEntity",
+			"bver" : "1",
+			"exec" : "MFSJSONEntity",
+			"path" : "Frameworks/MFSJSONEntity.framework",
+			"sha1" : "P3h/wLI4p4CMt80Eq6Cu+xxTW0g=",
+			"sha2" : "yv5tsz06eDjklKomG/2Jpqd6RbuBTM1JkIxpyxUhuH4="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MJRefresh",
+			"bver" : "1",
+			"exec" : "MJRefresh",
+			"path" : "Frameworks/MJRefresh.framework",
+			"sha1" : "Lc4sb7xyLHeFye3jaWhVdhsAVWU=",
+			"sha2" : "Za7Br6kVWwtLaIGjLpvw/yrTG/1IWnnhyp4NEuc4zxQ="
+		},
+		
+		{
+			"bid" : "org.cocoapods.DACircularProgress",
+			"bver" : "1",
+			"exec" : "DACircularProgress",
+			"path" : "Frameworks/DACircularProgress.framework",
+			"sha1" : "mgqAgYKjhMNCiWLuTUT2MkXU2zA=",
+			"sha2" : "nLopk2RDqONEDY3monFJqo/uFzvEBHRjvIPj5p8Rpoo="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MagicalRecord",
+			"bver" : "1",
+			"exec" : "MagicalRecord",
+			"path" : "Frameworks/MagicalRecord.framework",
+			"sha1" : "S4vxqMcKqi9AnDzjF7tKRUGQ8h0=",
+			"sha2" : "U37dCdxmquuFRdm1ZezYG2cslKVIUEhV8x8/wxenqUU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SSZipArchive",
+			"bver" : "1",
+			"exec" : "SSZipArchive",
+			"path" : "Frameworks/SSZipArchive.framework",
+			"sha1" : "cbNWrQ5qGyofZMBqKDQK7ielkbg=",
+			"sha2" : "C6vKGKCgiN4isDW31AdWfJQ6oKuOwEdhZmNwpVt094Y="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MJExtension",
+			"bver" : "1",
+			"exec" : "MJExtension",
+			"path" : "Frameworks/MJExtension.framework",
+			"sha1" : "tPaQG/liYFzSzHOPPrvoaW4Mv5A=",
+			"sha2" : "Y/szgToYPN0CqdToR6xo6m791afDR8Zd8KLOY8Ojy5I="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SDWebImage",
+			"bver" : "1",
+			"exec" : "SDWebImage",
+			"path" : "Frameworks/SDWebImage.framework",
+			"sha1" : "cO5/QAZaniYvOO9GWOzsig9LOKw=",
+			"sha2" : "Z9NCDCNtrpQMW1wso9Kl8SENp6qFMhPwZpjGCHZbEAU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.ReactiveObjC",
+			"bver" : "1",
+			"exec" : "ReactiveObjC",
+			"path" : "Frameworks/ReactiveObjC.framework",
+			"sha1" : "fPXiDDo+cAzVZkJALj+UHH1lMNc=",
+			"sha2" : "886q4yAUJ0AFB/qi3b4d8GunwjCanEvvD9rHSBtLDnA="
+		},
+		
+		{
+			"bid" : "org.cocoapods.SDAutoLayout",
+			"bver" : "1",
+			"exec" : "SDAutoLayout",
+			"path" : "Frameworks/SDAutoLayout.framework",
+			"sha1" : "xSmrXm+j5cnXf5laM9isxlAelgQ=",
+			"sha2" : "hEGhYOcNQ3expLhFET0yHmzY77CWms5KSG5i6T75uHg="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MWPhotoBrowser",
+			"bver" : "1",
+			"exec" : "MWPhotoBrowser",
+			"path" : "Frameworks/MWPhotoBrowser.framework",
+			"sha1" : "S89I30ywoXGhROYhw8IQ4kWuWVw=",
+			"sha2" : "NYqHOCZeo6qGSymLiXxs7teKs+YsAto8izmIYRFevt0="
+		},
+		
+		{
+			"bid" : "org.cocoapods.CocoaAsyncSocket",
+			"bver" : "1",
+			"exec" : "CocoaAsyncSocket",
+			"path" : "Frameworks/CocoaAsyncSocket.framework",
+			"sha1" : "LE5Qi0NK4pT2a7tx/fgubQScZ+M=",
+			"sha2" : "1CQh+HfJ9dNolXZEwRcotsBpfIy1ak/h2ckmLp4DO3E="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MFSCache",
+			"bver" : "1",
+			"exec" : "MFSCache",
+			"path" : "Frameworks/MFSCache.framework",
+			"sha1" : "CO58/HI7RLP7YyhqPGlTcwcuOaM=",
+			"sha2" : "GvfdgxY4e6d0c2ytCHJnDK6rWj6NjW/LnfNvpZFDSQs="
+		},
+		
+		{
+			"bid" : "org.cocoapods.MBProgressHUD",
+			"bver" : "1",
+			"exec" : "MBProgressHUD",
+			"path" : "Frameworks/MBProgressHUD.framework",
+			"sha1" : "K96IlIJtKuKjlb2bK8o/JNsHOXM=",
+			"sha2" : "0k68cwWQkscmyKmCSPP0IbiwDGaL3k7BRE03DN2M2o8="
+		},
+		
+		{
+			"bid" : "com.ittybittyapps.RevealServer",
+			"bver" : "10107",
+			"exec" : "RevealServer",
+			"path" : "Frameworks/RevealServer.framework",
+			"sha1" : "xwYRSGhsd76QT55ktgURj6flMIo=",
+			"sha2" : "9QHp3X4/dSXSojh7CJnygreEUZkr6tFuqv5buyVgfUc="
+		},
+		
+		{
+			"bid" : "org.cocoapods.ActionSheetPicker-3-0",
+			"bver" : "1",
+			"exec" : "ActionSheetPicker_3_0",
+			"path" : "Frameworks/ActionSheetPicker_3_0.framework",
+			"sha1" : "468+MMM2Rf9MyrezNXf+H3haFQY=",
+			"sha2" : "Z0mgH3kpoy6kZPxjIEatHQ6Ja7JLD60AQHcDgbtGiVk="
+		},
+		
+		{
+			"bid" : "org.cocoapods.TKCarouselView",
+			"bver" : "1",
+			"exec" : "TKCarouselView",
+			"path" : "Frameworks/TKCarouselView.framework",
+			"sha1" : "s3QzR4Q7uS0KeGMid+gplC55pD0=",
+			"sha2" : "/hIjRFJk4o8Vtd8gljVHrXyoxbiPeJegMqFMd1grEpU="
+		},
+		
+		{
+			"bid" : "org.cocoapods.AliyunOSSiOS",
+			"bver" : "1",
+			"exec" : "AliyunOSSiOS",
+			"path" : "Frameworks/AliyunOSSiOS.framework",
+			"sha1" : "oAXGEXQcPZM4bd3sz7bdA26F7L8=",
+			"sha2" : "AYZsRBM97N2Acz2lCeJWXIGlitUAnGYKyj/3SQWeoPA="
+		}
+	],
+	"name" : "趣发圈圈",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683955338/Payload/HookApp.app",
+	"sha1" : "Ze7y9ubGYBapAytHo2nXk1ZiuKg=",
+	"sha2" : "UJPFAijmFZBvOjGDMBtTRi3oSpLaPxnA0CIhaAx4FAk="
+}

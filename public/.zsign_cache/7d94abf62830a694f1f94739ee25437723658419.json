@@ -1,0 +1,40 @@
+
+{
+	"bid" : "xm.2",
+	"bver" : "2.2",
+	"changed" : 
+	[
+		"Frameworks/libcycript.dylib",
+		"Frameworks/libHookAppDylib.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/RevealServer.framework/_CodeSignature/CodeResources",
+		"Frameworks/RevealServer.framework/RevealServer",
+		"embedded.mobileprovision"
+	],
+	"exec" : "XiaoMingCalc",
+	"files" : 
+	[
+		"Frameworks/libcycript.dylib",
+		"Frameworks/libHookAppDylib.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.ittybittyapps.RevealServer",
+			"bver" : "10107",
+			"exec" : "RevealServer",
+			"path" : "Frameworks/RevealServer.framework",
+			"sha1" : "xwYRSGhsd76QT55ktgURj6flMIo=",
+			"sha2" : "9QHp3X4/dSXSojh7CJnygreEUZkr6tFuqv5buyVgfUc="
+		}
+	],
+	"name" : "小明计算器",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683605780/Payload/HookApp.app",
+	"sha1" : "L2+BsRO3pqlnRD0saxIoocd4z3Y=",
+	"sha2" : "n4e2sW5EF+sK7EDZZEoG5f2VvVQYoTcK4HFOivzQY1o="
+}

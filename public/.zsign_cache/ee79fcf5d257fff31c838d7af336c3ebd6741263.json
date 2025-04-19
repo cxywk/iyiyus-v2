@@ -1,0 +1,84 @@
+
+{
+	"bid" : "com.netease.cloudmusic.1",
+	"bver" : "1074",
+	"changed" : 
+	[
+		"Frameworks/libsubstitutafzs.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"Frameworks/网易云音乐.dylib",
+		"libsubstrate.dylib",
+		"PlugIns/music Widget.appex/_CodeSignature/CodeResources",
+		"PlugIns/music Widget.appex/music Widget",
+		"PlugIns/music NotificationService.appex/_CodeSignature/CodeResources",
+		"PlugIns/music NotificationService.appex/music NotificationService",
+		"PlugIns/musicStickerPack.appex/_CodeSignature/CodeResources",
+		"PlugIns/musicStickerPack.appex/musicStickerPack",
+		"PlugIns/Neteasemusic Intents.appex/_CodeSignature/CodeResources",
+		"PlugIns/Neteasemusic Intents.appex/Neteasemusic Intents",
+		"Frameworks/WebRTC.framework/_CodeSignature/CodeResources",
+		"Frameworks/WebRTC.framework/WebRTC",
+		"embedded.mobileprovision"
+	],
+	"exec" : "neteasemusic",
+	"files" : 
+	[
+		"Frameworks/libsubstitutafzs.dylib",
+		"Frameworks/libsubstrate.dylib",
+		"Frameworks/网易云音乐.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.netease.cloudmusic.1.musicwidget",
+			"bver" : "1074",
+			"exec" : "music Widget",
+			"path" : "PlugIns/music Widget.appex",
+			"sha1" : "dcXE6Z4guHTOXxcOm2V0mscdTmc=",
+			"sha2" : "+ymkloUWVeP6NKR9CtD4DmXz/wpq4Ynm3pVUOSzGPXQ="
+		},
+		
+		{
+			"bid" : "com.netease.cloudmusic.1.notificationserviceextension",
+			"bver" : "1074",
+			"exec" : "music NotificationService",
+			"path" : "PlugIns/music NotificationService.appex",
+			"sha1" : "5CCB9hqv8tFAXutAOoIds3KroRo=",
+			"sha2" : "vBsN1Q5cUP0Mcc0k7tnL3H0s3iozSO0SJxzTxvsekxk="
+		},
+		
+		{
+			"bid" : "com.netease.cloudmusic.1.musicstickerpackextension",
+			"bver" : "1074",
+			"exec" : "musicStickerPack",
+			"path" : "PlugIns/musicStickerPack.appex",
+			"sha1" : "mrcvIG2wyh7rYEB2Eawdf6oiqCk=",
+			"sha2" : "OnhM9ujezS2tl5XE7U6MuiU7j7gwlwDTsKnbviLlJ0o="
+		},
+		
+		{
+			"bid" : "com.netease.cloudmusic.1.intents",
+			"bver" : "1074",
+			"exec" : "Neteasemusic Intents",
+			"path" : "PlugIns/Neteasemusic Intents.appex",
+			"sha1" : "2MAzAJz5gcnYdxfl24z0M7WxYno=",
+			"sha2" : "GxLDGhqCPnNQzINTId17SiwrVobC7KSA7b7Us4J1mL0="
+		},
+		
+		{
+			"bid" : "com.ssr1.WebRTC",
+			"bver" : "1",
+			"exec" : "WebRTC",
+			"path" : "Frameworks/WebRTC.framework",
+			"sha1" : "b6H9j2OvmBLiIrLKYtSoKvOobzA=",
+			"sha2" : "IKPSElTQR1HaOGbbO0pOd9N13mWZMPuvvew3zbnuUGA="
+		}
+	],
+	"name" : "网易云音乐",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1683900501/Payload/neteasemusic.app",
+	"sha1" : "pfvzkux/+/QWwYcZPxfU6qviiiE=",
+	"sha2" : "Xd3zL3hNDT3vnMyrvO76BJtiD3zfHc3jMqTp0yOmNGo="
+}

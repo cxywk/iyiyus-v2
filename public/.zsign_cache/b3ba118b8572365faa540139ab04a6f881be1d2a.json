@@ -1,0 +1,141 @@
+
+{
+	"bid" : "com.ss.iphone.ugc.Aweme.afzs",
+	"bver" : "248012",
+	"changed" : 
+	[
+		"libsubstitnet.dylib",
+		"roots.dylib",
+		"Frameworks/libsubstiajjajakak.dylib",
+		"Frameworks/libsubstisoaokajw.dylib",
+		"libsubstrate.dylib",
+		"Frameworks/RTCbytenn.framework/_CodeSignature/CodeResources",
+		"Frameworks/RTCbytenn.framework/RTCbytenn",
+		"Frameworks/VolcEngineRTC.framework/_CodeSignature/CodeResources",
+		"Frameworks/VolcEngineRTC.framework/VolcEngineRTC",
+		"Frameworks/AWEIMFramework.framework/_CodeSignature/CodeResources",
+		"Frameworks/AWEIMFramework.framework/AWEIMFramework",
+		"Frameworks/byteaudio.framework/_CodeSignature/CodeResources",
+		"Frameworks/byteaudio.framework/byteaudio",
+		"Frameworks/AWEExtensionsFramework.framework/_CodeSignature/CodeResources",
+		"Frameworks/AWEExtensionsFramework.framework/AWEExtensionsFramework",
+		"Frameworks/AwemeCore.framework/_CodeSignature/CodeResources",
+		"Frameworks/AwemeCore.framework/AwemeCore",
+		"Frameworks/EffectSDKFramework.framework/_CodeSignature/CodeResources",
+		"Frameworks/EffectSDKFramework.framework/EffectSDKFramework",
+		"Frameworks/BDLRepairer.framework/_CodeSignature/CodeResources",
+		"Frameworks/BDLRepairer.framework/BDLRepairer",
+		"Frameworks/AWESearchFramework.framework/_CodeSignature/CodeResources",
+		"Frameworks/AWESearchFramework.framework/AWESearchFramework",
+		"Frameworks/isecgm.framework/_CodeSignature/CodeResources",
+		"Frameworks/isecgm.framework/isecgm",
+		"embedded.mobileprovision"
+	],
+	"exec" : "Aweme",
+	"files" : 
+	[
+		"libsubstitnet.dylib",
+		"roots.dylib",
+		"Frameworks/libsubstiajjajakak.dylib",
+		"Frameworks/libsubstisoaokajw.dylib",
+		"libsubstrate.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.bytedance.rtc.RTCbytenn",
+			"bver" : "1",
+			"exec" : "RTCbytenn",
+			"path" : "Frameworks/RTCbytenn.framework",
+			"sha1" : "4EzLlGxZmcakF5Pc87M8u8qZuDs=",
+			"sha2" : "NRpmJWJ11Nm+HcmzDp9PLuEXSFUTKn+epYqDHhcaeGI="
+		},
+		
+		{
+			"bid" : "VolcEngineRTC",
+			"bver" : "1",
+			"exec" : "VolcEngineRTC",
+			"path" : "Frameworks/VolcEngineRTC.framework",
+			"sha1" : "v6MWrkkW/PHTPTeU+IaDfyH9NFI=",
+			"sha2" : "I6QhkBi2x6QGwM/7CNCFxa03QzJMLccvVo3j0PdPTDo="
+		},
+		
+		{
+			"bid" : "com.ss.iphone.ugc.Aweme.AWEIMFramework",
+			"bver" : "1.0",
+			"exec" : "AWEIMFramework",
+			"path" : "Frameworks/AWEIMFramework.framework",
+			"sha1" : "NEoc0aQSnkkSEOEr/DjRd/PPsgY=",
+			"sha2" : "3wISy6F5FOQErAFj0xJVM0bf2FJKBpxgQagKswUX5Pc="
+		},
+		
+		{
+			"bid" : "com.bytedance.byteaudio",
+			"bver" : "1",
+			"exec" : "byteaudio",
+			"path" : "Frameworks/byteaudio.framework",
+			"sha1" : "n5rhc7ED1+oBH9knlcpc8DY5lDs=",
+			"sha2" : "BEWRtpRjFO3BGVfNOYHesZHv56UTwR5ssdMu7aDbd7o="
+		},
+		
+		{
+			"bid" : "com.ss.iphone.ugc.Aweme.AWEExtensionsFramework",
+			"bver" : "1.0",
+			"exec" : "AWEExtensionsFramework",
+			"path" : "Frameworks/AWEExtensionsFramework.framework",
+			"sha1" : "fyLl7B2QHSS5rvtNfXdtWNEWqto=",
+			"sha2" : "LtVWtG+AkHLzdD9/0wCQO1XmkCEMVEgcoGDJWxp74hY="
+		},
+		
+		{
+			"bid" : "com.ss.iphone.ugc.Aweme.AwemeCore",
+			"bver" : "1.0",
+			"exec" : "AwemeCore",
+			"path" : "Frameworks/AwemeCore.framework",
+			"sha1" : "lUA4L0NACiJNxX6q8aTBdXZg87A=",
+			"sha2" : "FYL+1jAygCP8mqU1oBC29PIYNHrGlL9bv6btYAa/8e0="
+		},
+		
+		{
+			"bid" : "com.ss.iphone.ugc.Aweme.EffectSDKFramework",
+			"bver" : "1.0",
+			"exec" : "EffectSDKFramework",
+			"path" : "Frameworks/EffectSDKFramework.framework",
+			"sha1" : "pVKYuqy2T6Z/PNvJv5Vd7euQmJU=",
+			"sha2" : "V1wU0tAPJcW5YzOuyPlgznxSJns5nJKOdSrzHHjtuvk="
+		},
+		
+		{
+			"bid" : "a.BDLRepairer",
+			"bver" : "1",
+			"exec" : "BDLRepairer",
+			"path" : "Frameworks/BDLRepairer.framework",
+			"sha1" : "v+rXp5HGuibSChvr6YyYlixf+j4=",
+			"sha2" : "8GaMqW2K0u/wgoWBx9nLjP5InMKK/8G0YL41fMX8alE="
+		},
+		
+		{
+			"bid" : "com.ss.iphone.ugc.Aweme.AWESearchFramework",
+			"bver" : "1.0",
+			"exec" : "AWESearchFramework",
+			"path" : "Frameworks/AWESearchFramework.framework",
+			"sha1" : "s28+d+pbb9LhsXU6GR//IE7D+AU=",
+			"sha2" : "28GOsmvolNvK0cGJ3y5sYsP6X5VhDGrvph+dJSTgLBI="
+		},
+		
+		{
+			"bid" : "cn.com.infosec.ios",
+			"bver" : "1",
+			"exec" : "isecgm",
+			"path" : "Frameworks/isecgm.framework",
+			"sha1" : "NrXTLXfDYVPqHJ2RtZIblA5MygM=",
+			"sha2" : "H8IR8GKihz/q5fAOcoomw+ZcR1fHTxlih3NhNVFBJNU="
+		}
+	],
+	"name" : "抖音",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684321487/Payload/Aweme.app",
+	"sha1" : "vsc3NdFSgmKJCASnWuNXZviG2Og=",
+	"sha2" : "EWaf0pMhA5WWoaYvYgge9s9ezcItzmbgnzEUMimcGW0="
+}

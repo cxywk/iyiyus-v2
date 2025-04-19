@@ -1,0 +1,3038 @@
+---------------------------------------------------------------
+[ 2024-10-05T00:29:39+08:00 ] 127.0.0.1 GET www.yuchen.com/favicon.ico
+[运行时间：0.081326s] [吞吐率：12.30req/s] [内存消耗：2,137.69kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000348s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003265s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001460s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000022s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; PHPSESSID=vgn0n686a39md0jk6ja0ppdned; think_var=zh-cn; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.yuchen.com/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:42+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/cerman?ref=addtabs
+[运行时间：0.088871s] [吞吐率：11.25req/s] [内存消耗：3,396.55kb] [文件加载：132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001373s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003149s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001333s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000029s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'cerman',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'addtabs',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002143s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/common\view\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000593s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:43+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/index/login?url=%2Fmanage.php%2Fcerman%3Fref%3Daddtabs
+[运行时间：0.043514s] [吞吐率：22.98req/s] [内存消耗：3,688.66kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001805s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000680s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000016s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.yuchen.com/manage.php/cerman?ref=addtabs',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/manage.php/cerman?ref=addtabs',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000927s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000195s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:43+08:00 ] 127.0.0.1 GET www.yuchen.com/index.php?s=/captcha
+[运行时间：0.039459s] [吞吐率：25.34req/s] [内存消耗：2,172.54kb] [文件加载：114]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001928s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000711s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000028s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ D:\phpstudy_pro\WWW\www.yuchen.com\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:43+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=index&lang=zh-cn&v=1728060643&v=1728060643
+[运行时间：0.039746s] [吞吐率：25.16req/s] [内存消耗：3,586.89kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001616s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000549s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'lang' => 'zh-cn',
+  'v' => '1728060643',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001221s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000262s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:50+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/login?url=%2Fmanage.php%2Fcerman%3Fref%3Daddtabs
+[运行时间：0.086559s] [吞吐率：11.55req/s] [内存消耗：4,391.20kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001822s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000696s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '86',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/manage.php/cerman?ref=addtabs',
+  '__token__' => 'c1dbd67722ce1c5be3bf48b111b09459',
+  'username' => 'admin',
+  'password' => '123456',
+  'captcha' => 'jer7',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001283s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006863s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:50+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/cerman?ref=addtabs
+[运行时间：0.061122s] [吞吐率：16.36req/s] [内存消耗：4,067.71kb] [文件加载：137]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001776s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000613s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'cerman',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'addtabs',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000908s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000286s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:50+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/index/index
+[运行时间：0.064147s] [吞吐率：15.59req/s] [内存消耗：4,631.52kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002033s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000768s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000021s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000891s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\index\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000214s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:50+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/cerman?addtabs=1
+[运行时间：0.057608s] [吞吐率：17.36req/s] [内存消耗：4,427.45kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001689s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000554s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'cerman',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000894s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/cerman.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\cerman\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'cermdataList',
+  6 => 'pooldataList',
+  7 => 'typedataList',
+  8 => 'sjypList',
+  9 => 'statedataList',
+  10 => 'warrantydataList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000224s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:50+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=index&lang=zh-cn&v=1728060650&v=1728060650
+[运行时间：0.040107s] [吞吐率：24.93req/s] [内存消耗：3,587.95kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002469s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000850s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000020s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'lang' => 'zh-cn',
+  'v' => '1728060650',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001299s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000249s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:50+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=cerman&lang=zh-cn&v=1728060650&v=1728060650
+[运行时间：0.038053s] [吞吐率：26.28req/s] [内存消耗：3,567.91kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001769s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000876s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000023s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'cerman',
+  'lang' => 'zh-cn',
+  'v' => '1728060650',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001208s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/cerman.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000207s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:51+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/cerman/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1728060650761
+[运行时间：0.075001s] [吞吐率：13.33req/s] [内存消耗：4,513.19kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001628s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000663s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000016s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'cerman',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1728060650761',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000927s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/cerman.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000235s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:55+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/auth/rule?addtabs=1
+[运行时间：0.077872s] [吞吐率：12.84req/s] [内存消耗：4,593.09kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001874s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000674s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'auth.rule',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000897s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/auth/rule.php
+[ info ] [ RUN ] app\admin\controller\auth\Rule->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\auth\Rule.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\auth\rule\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'ruledata',
+  6 => 'menutypeList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000231s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:56+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=auth.rule&lang=zh-cn&v=1728060655&v=1728060655
+[运行时间：0.035374s] [吞吐率：28.27req/s] [内存消耗：3,568.20kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001662s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000585s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'auth.rule',
+  'lang' => 'zh-cn',
+  'v' => '1728060655',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001242s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/auth/rule.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000204s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:56+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/auth/rule/index?sort=&order=desc&_=1728060655960
+[运行时间：0.051880s] [吞吐率：19.28req/s] [内存消耗：4,626.85kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001643s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000818s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000020s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'auth.rule',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => '',
+  'order' => 'desc',
+  '_' => '1728060655960',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000927s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/auth/rule.php
+[ info ] [ RUN ] app\admin\controller\auth\Rule->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\auth\Rule.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000234s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:58+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/auth/rule/multi
+[运行时间：0.104145s] [吞吐率：9.60req/s] [内存消耗：9,236.05kb] [文件加载：152]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001717s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000719s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'auth.rule',
+    2 => 'multi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '31',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => '',
+  'ids' => '4',
+  'params' => 'ismenu=1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000913s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/auth/rule.php
+[ info ] [ RUN ] app\common\controller\Backend->multi[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.005808s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:50:58+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.094375s] [吞吐率：10.60req/s] [内存消耗：4,618.75kb] [文件加载：147]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002330s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001015s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001062s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000474s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:35+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/category?addtabs=1
+[运行时间：0.076551s] [吞吐率：13.06req/s] [内存消耗：4,500.44kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001716s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000640s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000854s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/category.php
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\category\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'typeList',
+  6 => 'parentList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000211s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:35+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=category&lang=zh-cn&v=1728060695&v=1728060695
+[运行时间：0.035991s] [吞吐率：27.78req/s] [内存消耗：3,566.79kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001697s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000583s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000016s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'category',
+  'lang' => 'zh-cn',
+  'v' => '1728060695',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001278s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/category.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000215s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:35+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/category/index?sort=weigh&order=desc&_=1728060695735
+[运行时间：0.054628s] [吞吐率：18.31req/s] [内存消耗：4,494.89kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001731s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000619s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'weigh',
+  'order' => 'desc',
+  '_' => '1728060695735',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000974s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/category.php
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Category.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000312s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:37+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/general/config?addtabs=1
+[运行时间：0.075318s] [吞吐率：13.28req/s] [内存消耗：4,568.16kb] [文件加载：139]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001679s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000608s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'general.config',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000916s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/config.php
+[ info ] [ RUN ] app\admin\controller\general\Config->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\general\Config.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\general\config\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'siteList',
+  6 => 'typeList',
+  7 => 'ruleList',
+  8 => 'groupList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000213s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:37+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=general.config&lang=zh-cn&v=1728060697&v=1728060697
+[运行时间：0.037013s] [吞吐率：27.02req/s] [内存消耗：3,571.49kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001974s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000765s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000018s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'general.config',
+  'lang' => 'zh-cn',
+  'v' => '1728060697',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001222s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/config.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000197s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/general/attachment?addtabs=1
+[运行时间：0.052419s] [吞吐率：19.08req/s] [内存消耗：4,394.22kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001852s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000707s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'general.attachment',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000931s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/attachment.php
+[ info ] [ RUN ] app\admin\controller\general\Attachment->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\general\Attachment.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\general\attachment\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'mimetypeList',
+  6 => 'categoryList',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000201s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=general.attachment&lang=zh-cn&v=1728060698&v=1728060698
+[运行时间：0.036005s] [吞吐率：27.77req/s] [内存消耗：3,568.93kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001644s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000660s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000016s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'general.attachment',
+  'lang' => 'zh-cn',
+  'v' => '1728060698',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001234s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/attachment.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000205s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/general/attachment/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1728060698218
+[运行时间：0.058742s] [吞吐率：17.02req/s] [内存消耗：4,485.78kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001663s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000611s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'general.attachment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1728060698218',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000883s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/attachment.php
+[ info ] [ RUN ] app\admin\controller\general\Attachment->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\general\Attachment.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000198s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20240909/226bf752c8820ff9b1d342b07737c7b7.jpg
+[运行时间：0.033079s] [吞吐率：30.23req/s] [内存消耗：2,138.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000043s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002472s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000029s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20240909',
+    2 => '226bf752c8820ff9b1d342b07737c7b7.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/df51244f6f9b3e10cc4620cd32b2cdca.png
+[运行时间：0.033502s] [吞吐率：29.85req/s] [内存消耗：2,138.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000069s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001860s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000733s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000026s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => 'df51244f6f9b3e10cc4620cd32b2cdca.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/e451cd1c076054c1847461a3ce351c35.png
+[运行时间：0.028472s] [吞吐率：35.12req/s] [内存消耗：2,138.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001731s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000974s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000032s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => 'e451cd1c076054c1847461a3ce351c35.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/55151e4b9f3cc1648ea184d11b9b298e.png
+[运行时间：0.028805s] [吞吐率：34.72req/s] [内存消耗：2,138.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001789s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000819s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000029s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => '55151e4b9f3cc1648ea184d11b9b298e.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/345597c79015526475f3cfec436f5ac5.png
+[运行时间：0.049988s] [吞吐率：20.00req/s] [内存消耗：2,138.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000146s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002829s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001600s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000038s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => '345597c79015526475f3cfec436f5ac5.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/addon?addtabs=1
+[运行时间：0.064325s] [吞吐率：15.55req/s] [内存消耗：4,598.15kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002085s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000826s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000023s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000978s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\addon\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000211s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:38+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=addon&lang=zh-cn&v=1728060698&v=1728060698
+[运行时间：0.041818s] [吞吐率：23.91req/s] [内存消耗：3,592.09kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001623s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000560s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'addon',
+  'lang' => 'zh-cn',
+  'v' => '1728060698',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001618s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000329s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:39+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/udidlist?addtabs=1
+[运行时间：0.073118s] [吞吐率：13.68req/s] [内存消耗：4,358.34kb] [文件加载：139]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001636s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000547s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'udidlist',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000894s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\view\udidlist\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000197s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:39+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/ajax/lang?callback=define&controllername=udidlist&lang=zh-cn&v=1728060699&v=1728060699
+[运行时间：0.058701s] [吞吐率：17.04req/s] [内存消耗：3,563.84kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000118s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002654s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000935s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000019s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'udidlist',
+  'lang' => 'zh-cn',
+  'v' => '1728060699',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001723s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000416s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:40+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/udidlist/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1728060699906
+[运行时间：0.055569s] [吞吐率：18.00req/s] [内存消耗：4,439.52kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001652s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000636s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000016s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'udidlist',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1728060699906',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000888s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000210s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:51:53+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/addon/downloaded?callback=jQuery224007457348133793751_1728060698721&sort=id&order=desc&offset=0&limit=50&filter=%7B%22type%22%3A%22local%22%2C%22faversion%22%3A%221.3.4.20220530%22%7D&op=%7B%22type%22%3A%22%3D%22%2C%22faversion%22%3A%22%3D%22%7D&uid=77232&token=e9ea9f00-b3c0-4555-a1cd-59dc6f1efc5b&domain=www.yuchen.com&version=1.3.4.20220530&_=1728060698723
+[运行时间：0.828509s] [吞吐率：1.21req/s] [内存消耗：5,449.52kb] [文件加载：175]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001637s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000657s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'downloaded',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'jQuery224007457348133793751_1728060698721',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '50',
+  'filter' => '{"type":"local","faversion":"1.3.4.20220530"}',
+  'op' => '{"type":"=","faversion":"="}',
+  'uid' => '77232',
+  'token' => 'e9ea9f00-b3c0-4555-a1cd-59dc6f1efc5b',
+  'domain' => 'www.yuchen.com',
+  'version' => '1.3.4.20220530',
+  '_' => '1728060698723',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001023s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->downloaded[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000240s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:32+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/addon/install
+[运行时间：0.744876s] [吞吐率：1.34req/s] [内存消耗：6,832.75kb] [文件加载：219]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001641s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000559s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'install',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '115',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'clicaptcha',
+  'force' => '0',
+  'uid' => '77232',
+  'token' => '93f7ce5d-9402-4122-a529-da6241ae73f2',
+  'version' => '1.1.4',
+  'faversion' => '1.3.4.20220530',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000869s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->install[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006477s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:33+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/addon/state
+[运行时间：0.071424s] [吞吐率：14.00req/s] [内存消耗：4,699.38kb] [文件加载：148]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003505s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000697s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000018s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'state',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '37',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'clicaptcha',
+  'action' => 'enable',
+  'force' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001034s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000038s ]
+[ info ] [ RUN ] app\admin\controller\Addon->state[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006160s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:33+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.068907s] [吞吐率：14.51req/s] [内存消耗：4,721.90kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003686s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000771s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000018s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001185s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000072s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000618s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:33+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.076437s] [吞吐率：13.08req/s] [内存消耗：4,720.09kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003300s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001086s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000022s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001364s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000051s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000488s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:37+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/addon/install
+[运行时间：0.709187s] [吞吐率：1.41req/s] [内存消耗：6,850.26kb] [文件加载：221]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003590s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001446s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000032s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'install',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '125',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'bootstrapcontextmenu',
+  'force' => '0',
+  'uid' => '77232',
+  'token' => '93f7ce5d-9402-4122-a529-da6241ae73f2',
+  'version' => '1.0.1',
+  'faversion' => '1.3.4.20220530',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001146s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000035s ]
+[ info ] [ RUN ] app\admin\controller\Addon->install[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006459s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:37+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/addon/state
+[运行时间：0.074339s] [吞吐率：13.45req/s] [内存消耗：4,709.34kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003409s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001026s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'state',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '47',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'bootstrapcontextmenu',
+  'action' => 'enable',
+  'force' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001053s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000046s ]
+[ info ] [ RUN ] app\admin\controller\Addon->state[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.004366s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:37+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.079138s] [吞吐率：12.64req/s] [内存消耗：4,721.90kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003107s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000609s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000023s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001138s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000051s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000510s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:37+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.071747s] [吞吐率：13.94req/s] [内存消耗：4,720.09kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003134s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001339s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000029s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001175s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000054s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000504s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:39+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/addon/install
+[运行时间：0.735109s] [吞吐率：1.36req/s] [内存消耗：6,860.00kb] [文件加载：223]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003231s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001012s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'install',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '118',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'togglesidebar',
+  'force' => '0',
+  'uid' => '77232',
+  'token' => '93f7ce5d-9402-4122-a529-da6241ae73f2',
+  'version' => '1.0.1',
+  'faversion' => '1.3.4.20220530',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001231s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000036s ]
+[ info ] [ RUN ] app\admin\controller\Addon->install[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006398s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:39+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/addon/state
+[运行时间：0.066071s] [吞吐率：15.14req/s] [内存消耗：4,719.09kb] [文件加载：152]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002459s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000614s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000015s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'state',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '40',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'togglesidebar',
+  'action' => 'enable',
+  'force' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000894s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000047s ]
+[ info ] [ RUN ] app\admin\controller\Addon->state[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.006076s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:39+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.072699s] [吞吐率：13.76req/s] [内存消耗：4,721.90kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003016s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000699s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000018s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001344s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000033s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000730s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:52:39+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.076019s] [吞吐率：13.15req/s] [内存消耗：4,720.09kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004151s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001684s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000027s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001153s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000035s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000500s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:05+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/auth/rule/multi
+[运行时间：0.091759s] [吞吐率：10.90req/s] [内存消耗：9,275.29kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003360s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000914s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000017s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'auth.rule',
+    2 => 'multi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '31',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => '',
+  'ids' => '4',
+  'params' => 'ismenu=0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001991s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/auth/rule.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000033s ]
+[ info ] [ RUN ] app\common\controller\Backend->multi[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.005913s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:05+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/index/index
+[运行时间：0.060198s] [吞吐率：16.61req/s] [内存消耗：4,720.09kb] [文件加载：149]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002758s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000684s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000040s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '18',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000981s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000045s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000711s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:06+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/category/index?sort=weigh&order=desc&_=1728060695736
+[运行时间：0.050013s] [吞吐率：19.99req/s] [内存消耗：4,534.09kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002500s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000625s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000014s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'weigh',
+  'order' => 'desc',
+  '_' => '1728060695736',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001154s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/category.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000045s ]
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\Category.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000216s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:08+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/general/attachment/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1728060698219
+[运行时间：0.072186s] [吞吐率：13.85req/s] [内存消耗：4,524.93kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004645s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000963s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000018s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'general.attachment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1728060698219',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001143s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/attachment.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000032s ]
+[ info ] [ RUN ] app\admin\controller\general\Attachment->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\general\Attachment.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000197s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:08+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20240909/226bf752c8820ff9b1d342b07737c7b7.jpg
+[运行时间：0.035624s] [吞吐率：28.07req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002974s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000873s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000027s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20240909',
+    2 => '226bf752c8820ff9b1d342b07737c7b7.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:08+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/345597c79015526475f3cfec436f5ac5.png
+[运行时间：0.037836s] [吞吐率：26.43req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003366s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000667s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000021s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => '345597c79015526475f3cfec436f5ac5.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:08+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/55151e4b9f3cc1648ea184d11b9b298e.png
+[运行时间：0.039981s] [吞吐率：25.01req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005124s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001016s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000030s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => '55151e4b9f3cc1648ea184d11b9b298e.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:08+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/e451cd1c076054c1847461a3ce351c35.png
+[运行时间：0.031322s] [吞吐率：31.93req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002545s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000697s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000019s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => 'e451cd1c076054c1847461a3ce351c35.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:08+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/df51244f6f9b3e10cc4620cd32b2cdca.png
+[运行时间：0.032729s] [吞吐率：30.55req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003341s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001039s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000026s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => 'df51244f6f9b3e10cc4620cd32b2cdca.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 POST www.yuchen.com/manage.php/general/attachment/del
+[运行时间：0.058820s] [吞吐率：17.00req/s] [内存消耗：4,442.84kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002473s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000837s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000033s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'general.attachment',
+    2 => 'del',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'origin' => 'http://www.yuchen.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '25',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'del',
+  'ids' => '33',
+  'params' => '',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000882s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/attachment.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000031s ]
+[ info ] [ RUN ] app\admin\controller\general\Attachment->del[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\general\Attachment.php ]
+[ info ] [ BEHAVIOR ] Run Closure @upload_delete [ RunTime:0.001441s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.004136s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/general/attachment/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1728060698220
+[运行时间：0.053067s] [吞吐率：18.84req/s] [内存消耗：4,523.95kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002948s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000804s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000016s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'general.attachment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1728060698220',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001024s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/general/attachment.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000033s ]
+[ info ] [ RUN ] app\admin\controller\general\Attachment->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\controller\general\Attachment.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000241s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/55151e4b9f3cc1648ea184d11b9b298e.png
+[运行时间：0.033767s] [吞吐率：29.61req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003709s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000991s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000024s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => '55151e4b9f3cc1648ea184d11b9b298e.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20240909/226bf752c8820ff9b1d342b07737c7b7.jpg
+[运行时间：0.034156s] [吞吐率：29.28req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003229s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000968s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000030s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20240909',
+    2 => '226bf752c8820ff9b1d342b07737c7b7.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/e451cd1c076054c1847461a3ce351c35.png
+[运行时间：0.052947s] [吞吐率：18.89req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003989s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001622s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000039s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => 'e451cd1c076054c1847461a3ce351c35.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/df51244f6f9b3e10cc4620cd32b2cdca.png
+[运行时间：0.055525s] [吞吐率：18.01req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000127s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004713s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.001334s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000025s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => 'df51244f6f9b3e10cc4620cd32b2cdca.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/uploads/20230821/345597c79015526475f3cfec436f5ac5.png
+[运行时间：0.032097s] [吞吐率：31.16req/s] [内存消耗：2,237.44kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002524s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000662s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000035s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => '20230821',
+    2 => '345597c79015526475f3cfec436f5ac5.png',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-10-05T00:54:12+08:00 ] 127.0.0.1 GET www.yuchen.com/manage.php/cerman/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1728060650762
+[运行时间：0.051061s] [吞吐率：19.58req/s] [内存消耗：4,552.39kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002489s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_init [ RunTime:0.000619s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\thinkphp\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000021s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'cerman',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_cc_id=cd903644de4d1116f3336ca7c17fd2ab; _ga=GA1.2.170406968.1727665529; _gid=GA1.2.1614434766.1728044362; _ga_BN5JHNMDYM=GS1.1.1728044361.5.0.1728044364.0.0.0; PHPSESSID=bo5u06eca0scjpaubmt3cq445d; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'www.yuchen.com',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1728060650762',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001022s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\www.yuchen.com\public/../application/admin/lang/zh-cn/cerman.php
+[ info ] [ BEHAVIOR ] Run \addons\clicaptcha\Clicaptcha @action_begin [ RunTime:0.000036s ]
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\phpstudy_pro\WWW\www.yuchen.com\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000208s ]
+[ info ] [ LOG ] INIT File

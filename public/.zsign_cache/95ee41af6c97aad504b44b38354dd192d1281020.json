@@ -1,0 +1,73 @@
+
+{
+	"bid" : "com.netease.cloudmusic",
+	"bver" : "1074",
+	"changed" : 
+	[
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib",
+		"网易云音乐.dylib",
+		"PlugIns/music Widget.appex/_CodeSignature/CodeResources",
+		"PlugIns/music Widget.appex/music Widget",
+		"PlugIns/music NotificationService.appex/_CodeSignature/CodeResources",
+		"PlugIns/music NotificationService.appex/music NotificationService",
+		"PlugIns/musicStickerPack.appex/_CodeSignature/CodeResources",
+		"PlugIns/musicStickerPack.appex/musicStickerPack",
+		"PlugIns/Neteasemusic Intents.appex/_CodeSignature/CodeResources",
+		"PlugIns/Neteasemusic Intents.appex/Neteasemusic Intents",
+		"embedded.mobileprovision"
+	],
+	"exec" : "neteasemusic",
+	"files" : 
+	[
+		"libsubstitutafzs.dylib",
+		"roots.dylib",
+		"libsubstrate.dylib",
+		"网易云音乐.dylib"
+	],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.netease.cloudmusic.musicwidget",
+			"bver" : "1074",
+			"exec" : "music Widget",
+			"path" : "PlugIns/music Widget.appex",
+			"sha1" : "m5GOpGB3XFaZBMYGllHEFOP4kL0=",
+			"sha2" : "WnQ92Cjx68F/xnx6X6odAr5162CVRUQ8dJ0XqB2ZgKg="
+		},
+		
+		{
+			"bid" : "com.netease.cloudmusic.notificationserviceextension",
+			"bver" : "1074",
+			"exec" : "music NotificationService",
+			"path" : "PlugIns/music NotificationService.appex",
+			"sha1" : "5TdK2aTboqnqYLS9YpdZ9C9W5Ks=",
+			"sha2" : "WbWm/+5wQQPAPMIUKzE30YyfbWxK/RFKg/t1O/V23LU="
+		},
+		
+		{
+			"bid" : "com.netease.cloudmusic.musicstickerpackextension",
+			"bver" : "1074",
+			"exec" : "musicStickerPack",
+			"path" : "PlugIns/musicStickerPack.appex",
+			"sha1" : "s5o6sT8QbHqEjCWqv3uK65ylAe0=",
+			"sha2" : "9p2fSO4/BzGdD4t09gmqL3298Nf6QA1AJGnkCE1YJIQ="
+		},
+		
+		{
+			"bid" : "com.netease.cloudmusic.intents",
+			"bver" : "1074",
+			"exec" : "Neteasemusic Intents",
+			"path" : "PlugIns/Neteasemusic Intents.appex",
+			"sha1" : "hr/VwR9HF9OXMQ3Kr+V/QxtdSh4=",
+			"sha2" : "HCIlb8Mn2G7VlNK3q8vJF5zHGUjJOgb33e3Qd1zkBhA="
+		}
+	],
+	"name" : "网易云音乐",
+	"path" : "/",
+	"root" : "/www/wwwroot/udid.ccc3.cn/public/tmp/1684589415/Payload/neteasemusic.app",
+	"sha1" : "YRgB2slqRIc3srGYfYPRO15TWMY=",
+	"sha2" : "a7qsdudzMCBiAjI47jFcXa2AoNBmCEoJsAZ3PUM2iM0="
+}
